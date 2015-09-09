@@ -1,0 +1,205 @@
+/*
+#	-----
+#	Eigene Styles zum Überschreiben der Theme-Einstellungen
+#
+#	Autor: KUATOproject
+#	-----
+*/
+
+@c-btn: #5b6d9d;
+@c-text: #404040;
+@c-bgbrown: #ccc1af;
+@c-headbrown: #e3d9ca;
+@c-fontblue: #455b84;
+
+// Loader
+#overlay {
+	background-color:#fff;
+}
+#progstat {
+	background-color: @c-fontblue;
+
+	& i {
+		color: #fff;
+	}
+}
+
+body {
+	font-family: 'Pacifico';
+}
+
+// Hintergrund
+	.sectionBg {
+		background-color: #ccc1af;
+	}
+
+	p {
+		color:#fff !important;
+	}
+
+	h4 {
+		color: @c-fontblue !important;
+	}
+
+/*	------------------------------------------ */
+
+// Button Jumbotron
+.box a {
+	background-color: @c-bgbrown;
+}
+
+/*	------------------------------------------ */
+
+// Headlines
+	// oberer Teil
+	.featuresTitle h3 {
+		color: @c-text;
+	}
+	// großer Buchstabe bei Headlines
+	.featuresTitle h3 span {
+		color:#e5e1db;
+	}
+
+/*	------------------------------------------ */
+
+// Abschnitt Ausstattung
+
+	//  headline 1. Teil
+	.descriptions h3,
+	.location h3,
+	.aboutAgent h3,
+	.carousel-caption h2 span,
+	.footer h2
+	 {
+		color: @c-headbrown;
+	}
+
+
+	//  headline 2. Teil
+	.descriptions h3 span,
+	.location h3 span,
+	.aboutAgent	h3 span,
+	.carousel-caption h2,
+	.footer h2 span {
+		color: @c-fontblue;
+	}
+
+	// Klappboxen
+	.panel {
+		background-color: #d8cdbc !important;
+	}
+
+	.panel-heading {
+		background-color: #b8a890 !important;
+	}
+
+	.panel-title i, .panel-title i:hover {
+		border-color: @c-fontblue;
+	}
+
+	.items ul li i::before {
+		color: @c-fontblue;
+	}
+
+	.panel-title a {
+		color: @c-fontblue;
+	}
+
+	.panel-body p,
+	.boxFeature p {
+		color: @c-text !important;
+	}
+
+/*	------------------------------------------ */
+
+// Abschnitt Galerie
+
+	.categories ul li a,
+	.categories ul li a p,
+	.allButton a,
+	.allButton a p,
+	.footer .social a,
+	.back-to-top,
+	.carouselPresentation .owl-prev,
+	.carouselPresentation .owl-next,
+	.box i,
+	.socialIcons i
+
+	 {
+		background: @c-btn;
+		border-color: @c-btn;
+
+		&:hover {
+			background: @c-fontblue;
+			border-color: @c-fontblue;
+		}
+	}
+
+	.contentGallery ul li a h3,
+	.progress-bar,
+	.footer h2::after
+	 {
+		background-color: @c-btn;
+	}
+
+
+
+
+/*	------------------------------------------ */
+
+// Icons
+
+.box .fa-sun-o:before {
+    top: -1rem;
+    position: absolute;
+    bottom: 0;
+    right: -1rem;
+}
+
+.box .fa-shopping-cart:before {
+    top: -0.8rem;
+    position: absolute;
+    bottom: 0;
+    right: -0.8rem;
+}
+
+.box .fa-camera:before {
+    top: -1rem;
+    position: absolute;
+    bottom: 0;
+    right: -1rem;
+}
+
+.box .fa-anchor:before {
+    top: -1.1rem;
+    position: absolute;
+    bottom: 0;
+    right: -1rem;
+}
+
+/*	------------------------------------------ */
+
+// Navigation
+
+.navbar-brand a {
+	border:none;
+}
+
+.menu nav ul li a {
+	background: transparent;
+	color: #fff;
+	border-radius:0;
+	border:none;
+}
+
+.menu nav ul li a:hover,
+.menu nav ul li.active a {
+	background: transparent;
+	border: none;
+	border-bottom: 3px solid @c-fontblue;
+	border-radius: 0;
+	color: @c-fontblue;
+	padding-bottom: 0.15em;
+}
+
+
