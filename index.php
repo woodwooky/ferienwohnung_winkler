@@ -7,7 +7,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<title>Ferienwohnung Fabian</title>
 	<!-- ========== CSS INCLUDES ========== -->
-	<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="assets/css/master.css">
 	<link rel="stylesheet" href="assets/css/style.css">
 </head>
@@ -29,7 +28,7 @@
 			  <span class="icon-bar last"></span>
 			</button>
 			<div class="navbar-brand">
-				<a href="index.html">Ferienwohnung Fabian</a>
+				<a href="index.html">Ferienwohnung <span>Fabian</span></a>
 			</div>
 			<nav>
 				<!-- ============== NAVIGATION ============= -->
@@ -50,18 +49,18 @@
 						</a>
 					</li>
 					<li>
-						<a href="#about" data-easing="easeInOutCubic" data-scroll="" data-speed="1000" data-url="false">
-							About Agent
+						<a href="#location" data-easing="easeInOutCubic" data-scroll="" data-speed="1600" data-url="false">
+							Lage
 						</a>
 					</li>
 					<li>
-						<a href="#location" data-easing="easeInOutCubic" data-scroll="" data-speed="1600" data-url="false">
-							Location
+						<a href="#juist" data-easing="easeInOutCubic" data-scroll="" data-speed="1600" data-url="false">
+							Über Juist
 						</a>
 					</li>
 					<li>
 						<a href="#contact" data-easing="easeInOutCubic" data-scroll="" data-speed="1800" data-url="false">
-							Contact
+							Kontakt
 						</a>
 					</li>
 
@@ -158,7 +157,7 @@ hier dann die drittte Zeile des slider					</div>
 					data-elementdelay="0.1"
 					data-endelementdelay="0.1"
 					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-							<a href="#about" data-easing="easeInOutCubic" data-scroll="" data-speed="1200" data-url="false">Jetzt erholen!</a>
+							<a href="#about" data-easing="easeInOutCubic" data-scroll="" data-speed="1200" data-url="false">Jetzt buchen!</a>
 					</div>
 
 
@@ -285,46 +284,40 @@ hier dann die drittte Zeile des slider					</div>
 				</div><!-- end col-sm-12 -->
 				<div class="boxFeature">
 					<article class="col-sm-3 featureBox">
-						<div class="img">
-							<a href=""><img src="assets/img/content/h1.png" alt="..."><img src="assets/img/content/h1v.png" alt="..."></a>
+											<div class="img">
+							<a><img src="assets/img/content/h1.png" alt="..."><img src="assets/img/content/h1.png" alt="..."></a>
 						</div><!-- end img -->
-						<a href="#"><img src="assets/img/content/ic.png" alt=""></a>
+						<a><img src="assets/img/content/ic.png" alt=""></a>
 						<h4>Quadratmeter 67 m²
 						</h4>
 						<p>Helle und freundlich eingerichtete Wohnung bietet Platz für <strong>bis zu vier  Personen</strong>.</p>
 					</article>
 					<article class="col-sm-3 featureBox">
-						<div class="img">
-							<a href=""><img src="assets/img/content/h2.png" alt="..."><img src="assets/img/content/h2v.png" alt="..."></a>
+												<div class="img">
+							<a ><img src="assets/img/content/h2.png" alt="..."><img src="assets/img/content/h2.png" alt="..."></a>
 						</div><!-- end img -->
-						<a href="#"><img src="assets/img/content/ic.png" alt=""></a>
+						<a><img src="assets/img/content/ic.png" alt=""></a>
 						<h4>Schlafzimmer 2
 						</h4>
 						<p>Elternschlafzimmer mit Doppelbett und Kinderschlazimmer mit Etagenbett</p>
 					</article>
 					<article class="col-sm-3 featureBox">
-						<div class="img">
-							<a href=""><img src="assets/img/content/h3.png" alt="..."><img src="assets/img/content/h3v.png" alt="..."></a>
+												<div class="img">
+							<a><img src="assets/img/content/h3.png" alt="..."><img src="assets/img/content/h3.png" alt="..."></a>
 						</div><!-- end img -->
-						<a href="#"><img src="assets/img/content/ic.png" alt=""></a>
+						<a><img src="assets/img/content/ic.png" alt=""></a>
 						<h4>Badezimmer 1
 						</h4>
 						<p>Renoviertes Badezimmer mit Dusche</p>
 					</article>
 					<article class="col-sm-3 featureBox">
-						<div class="img">
-							<a href=""><img src="assets/img/content/h4.png" alt="..."><img src="assets/img/content/h4v.png" alt="..."></a>
+												<div class="img">
+							<a><img src="assets/img/content/h4.png" alt="..."><img src="assets/img/content/h4.png" alt="..."></a>
 						</div><!-- end img -->
-						<a href="#"><img src="assets/img/content/ic.png" alt=""></a>
-						<h4>Terasse
+						<a><img src="assets/img/content/ic.png" alt=""></a>
+						<h4>Terrasse
 						</h4>
-						<p>Gemütliche Terasse nach Südwesten.</p>
-					</article>
-					<article class="col-sm-3 featureBox">
-						<div class="img">
-							<a href=""><img src="assets/img/content/h5.png" alt="..."><img src="assets/img/content/h5v.png" alt="..."></a>
-						</div><!-- end img -->
-
+						<p>Gemütliche Terrasse nach Südwesten.</p>
 					</article>
 				</div><!-- end boxFeature -->
 			</div><!-- end row -->
@@ -350,8 +343,13 @@ hier dann die drittte Zeile des slider					</div>
 			<div class="row">
 				<div class="col-sm-5">
 					<div class="carouselPresentation row">
-							<img src="assets/img/content/s1.jpg" alt="img">
-							<img src="assets/img/content/s2.jpg" alt="img">
+							<img src="assets/img/self/haus.JPG" alt="img">
+							<img src="assets/img/self/wohnzimmer.JPG" alt="img">
+							<img src="assets/img/self/schlafen_1.JPG" alt="img">
+							<img src="assets/img/self/schlafen_2.JPG" alt="img">
+							<img src="assets/img/self/kueche.JPG" alt="img">
+							<img src="assets/img/self/esszimmer.JPG" alt="img">
+
 					</div><!--emd carouselPresentation -->
 				</div><!--end col-sm-5 -->
 
@@ -492,8 +490,8 @@ hier dann die drittte Zeile des slider					</div>
 					<ul class="clearfix">
 						<li class="drawing col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/1.jpg">
-									<img src="assets/img/content/1.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/strand_01.jpg">
+									<img src="assets/img/self/strand_01.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
@@ -501,8 +499,8 @@ hier dann die drittte Zeile des slider					</div>
 
 						<li class="bedroom col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/2.jpg">
-									<img src="assets/img/content/2.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/strand_02.jpg">
+									<img src="assets/img/self/strand_02.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
@@ -510,8 +508,8 @@ hier dann die drittte Zeile des slider					</div>
 
 						<li class="living col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/3.jpg">
-									<img src="assets/img/content/3.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/strand_03.jpg">
+									<img src="assets/img/self/strand_03.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
@@ -666,7 +664,7 @@ hier dann die drittte Zeile des slider					</div>
 	<!-- ========== STARTING AGENCY ========== -->
 	<!-- ================================ -->
 	<!-- ================================ -->
-	<section class="sectionPadding" style="padding-top:17.5rem; padding-bottom:9.5rem;">
+	<section class="sectionPadding" style="padding-top:17.5rem; padding-bottom:9.5rem;" id="juist">
 		<div class="agencyContent">
 			<div class="container">
 				<div class="row">
@@ -747,209 +745,6 @@ hier dann die drittte Zeile des slider					</div>
 
 
 
-
-
-
-
-
-	<!-- ================================ -->
-	<!-- ========== STARTING SECTION ABOUT AGENT ========== -->
-	<!-- ================================ -->
-	<section  class="sectionPadding sectionAb sectionBg bgk bgk1" id="about">
-		<div class="divimage dzsparallaxer--target position-absolute " style="width: 100%; height: 150%; background-image: url(assets/img/content/agent1.jpg)">
-    	</div>
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-5">
-					<div class="carouselPresentation row">
-							<img src="assets/img/content/agent.jpg" alt="img">
-							<img src="assets/img/content/agent2.jpg" alt="img">
-					</div><!--emd carouselPresentation -->
-				</div><!--end col-sm-5 -->
-				<div class="col-sm-7 aboutAgent">
-					<h3>About <span>agent</span></h3>
-					<p>Markus is a Certified Residential Specialist with over 10 years experience of helping local residents
-					sell homes. He achieved success due to his commitment to the enhancement of the real estate
-					profession, client service, and the community.</p>
-
-					<ul class="clearfix">
-						<li>
-							<span class="envelope">
-								<img src="assets/img/content/envelope.png" alt="envelope">
-								<img src="assets/img/content/envelopehover.png" alt="envelope">
-								<a href="#">contact@myagent.com</a>
-
-							</span>
-							<ul>
-								<li class="col-sm-7" >
-									<p>You will be receive answer in
-									only 24 hours, love you friends</p>
-								</li>
-							</ul>
-						</li>
-						<li>
-							<span class="phone">
-								<img src="assets/img/content/mobile.png" alt="envelope">
-								<img src="assets/img/content/mobilehover.png" alt="envelope">
-								<a href="#">+ 07 43 466 757</a>
-							</span>
-							<ul>
-								<li class="col-sm-7">
-									<p>This it‘s the number where you
-									can contact our kindergarten</p>
-								</li>
-							</ul>
-						</li>
-					</ul>
-
-					<div class="agentSocial">
-						<ul class="clearfix socialIcons">
-							<li class="col-sm-5">
-								<i class="fa fa-twitter"></i>
-								<h4>Follow me on Twitter</h4>
-							</li>
-							<li class="col-sm-5" style="width:42.666667%;">
-								<i class="fa fa-facebook"></i>
-								<h4>Follow me on Facebook</h4>
-							</li>
-						</ul>
-					</div>
-				</div><!--end col-sm-7 -->
-			</div><!--end row -->
-		</div><!--end container -->
-	</section>
-	<!-- ================================ -->
-	<!-- ========== END SECTION ABOUT AGENT ========== -->
-	<!-- ================================ -->
-
-
-
-
-
-
-
-
-
-	<!-- ================================ -->
-	<!-- ========== STARTING BLOG SECTION ========== -->
-	<!-- ================================ -->
-	<!-- ================================ -->
-	<!-- ================================ -->
-	<section class="sectionPadding"  style="padding-top:17.5rem;">
-		<div class="blogContent">
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-						<div class="featuresTitle fadeInUp">
-							<h3><span>B</span>Blog Section <span class="hr"></span></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie mi in venenatis convallis.<br>
-	 						habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas duis.</p>
-						</div><!-- end features title -->
-					</div><!-- end col-sm-12 -->
-
-					<div class="col-sm-4">
-						<div class="blogPost ">
-							<div class="image">
-								<img src="assets/img/blog/1.jpg" alt="..">
-								<div class="imgHover"><a href="blog.html">read more</a><hr></div>
-							</div>
-							<div class="blogContent">
-								<h3><a href="blog.html">How to sell your house</a></h3>
-								<ul class="clearfix" >
-									<li><a href="#"><i class="fa fa-user"></i>Tilvar Claudiu</a></li>
-									<li><a href="#"><i class="fa fa-calendar-o"></i>25 apr 2014</a></li>
-									<li><a href="#"><i class="fa fa-book"></i>Music</a></li>
-								</ul>
-								<p>Lorem ipsum dolor sit amet, consectetur elit donec
-								lacus nibh, vulputate eu dia non sodales lorem site
-								dolor sit amet, consectetur elit donec lacus nibheu consectetur elit donec
-								dia non sodales amet.</p>
-								<div class="bottomContent">
-									<ul>
-										<li>
-											<i class="fa fa-comments"></i>
-											<span class="comments">4 comments</span>
-										</li>
-										<li>
-											<i class="fa fa-comments" style="color:#8c8c8c;"></i>
-											<span class="likes">10 likes</span>
-										</li>
-									</ul>
-								</div>
-							</div><!--end blogContent -->
-						</div><!--end blogPost -->
-					</div><!-- end col-sm-4 -->
-					<div class="col-sm-4">
-						<div class="blogPost ">
-							<div class="image">
-								<img src="assets/img/blog/2.jpg" alt="..">
-								<div class="imgHover"><a href="blog.html">read more</a><hr></div>
-							</div>
-							<div class="blogContent">
-								<h3><a href="blog.html">Know your team</a></h3>
-								<ul class="clearfix" >
-									<li><a href="#"><i class="fa fa-user"></i>Tilvar Claudiu</a></li>
-									<li><a href="#"><i class="fa fa-calendar-o"></i>25 apr 2014</a></li>
-									<li><a href="#"><i class="fa fa-book"></i>Music</a></li>
-								</ul>
-								<p>Lorem ipsum dolor sit amet, consectetur elit donec
-								lacus nibh, vulputate eu dia non sodales lorem site
-								dolor sit amet, consectetur elit donec lacus nibheu consectetur elit donec
-								dia non sodales amet.</p>
-								<div class="bottomContent">
-									<ul>
-										<li>
-											<i class="fa fa-comments"></i>
-											<span class="comments">4 comments</span>
-										</li>
-										<li>
-											<i class="fa fa-comments" style="color:#8c8c8c;"></i>
-											<span class="likes">10 likes</span>
-										</li>
-									</ul>
-								</div>
-							</div><!--end blogContent -->
-						</div><!--end blogPost -->
-					</div><!-- end col-sm-4 -->
-					<div class="col-sm-4">
-						<div class="blogPost ">
-							<div class="image">
-								<img src="assets/img/blog/3.jpg" alt="..">
-								<div class="imgHover"><a href="blog.html">read more</a><hr></div>
-							</div>
-							<div class="blogContent">
-								<h3><a href="blog.html">5 steps to buy a home</a></h3>
-								<ul class="clearfix" >
-									<li><a href="#"><i class="fa fa-user"></i>Tilvar Claudiu</a></li>
-									<li><a href="#"><i class="fa fa-calendar-o"></i>25 apr 2014</a></li>
-									<li><a href="#"><i class="fa fa-book"></i>Music</a></li>
-								</ul>
-								<p>Lorem ipsum dolor sit amet, consectetur elit donec
-								lacus nibh, vulputate eu dia non sodales lorem site
-								dolor sit amet, consectetur elit donec lacus nibheu consectetur elit donec
-								dia non sodales amet.</p>
-								<div class="bottomContent">
-									<ul>
-										<li>
-											<i class="fa fa-comments"></i>
-											<span class="comments">4 comments</span>
-										</li>
-										<li>
-											<i class="fa fa-comments" style="color:#8c8c8c;"></i>
-											<span class="likes">10 likes</span>
-										</li>
-									</ul>
-								</div>
-							</div><!--end blogContent -->
-						</div><!--end blogPost -->
-					</div><!-- end col-sm-4 -->
-				</div><!-- end row -->
-			</div><!-- end container -->
-		</div><!-- end blogContent -->
-	</section>
-	<!-- ========== END BLOG SECTION ========== -->
-	<!-- ================================ -->
-	<!-- ================================ -->
 
 
 
@@ -1062,8 +857,6 @@ hier dann die drittte Zeile des slider					</div>
 	<!-- ========== END TESTIMONIALS ========== -->
 	<!-- ================================ -->
 	<!-- ================================ -->
-
-
 
 
 

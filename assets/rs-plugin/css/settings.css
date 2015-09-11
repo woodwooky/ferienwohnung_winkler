@@ -1317,7 +1317,7 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 		color-stop(0.13, rgb(0,0,0)),
 		color-stop(1, rgb(50,50,50))
 	);
-	
+
 	display:table;max-width:100%; overflow:hidden;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;
 }
 
@@ -1496,7 +1496,7 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 .tp-rightarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px}
 
 
-.tp-leftarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat 0 0;	
+.tp-leftarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat 0 0;
 														}
 .tp-rightarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat 0 0;
 
@@ -1707,7 +1707,7 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 
 
 /* NAVIGATION PREVIEW 2 */
-.tparrows.preview2 							{	min-width:60px; min-height:60px; background:#fff; ;
+.tparrows.preview2 							{	min-width:60px; min-height:60px; background:#fff;
 
 												border-radius:30px;-moz-border-radius:30px;-webkit-border-radius:30px;
 												overflow:hidden;
@@ -1837,7 +1837,7 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 
 /* NAVIGATION PREVIEW 3 */
 .tparrows.preview3 							{	width:70px; height:70px; background:#fff; background:rgba(255,255,255,1); -webkit-transform-style: flat}
-.tparrows.preview3:after					{	position:absolute;  line-height: 70px;text-align: center; font-family: "revicons"; color:#aaa; font-size:30px; top:0px;left:0px;;background:#fff; z-index:100; width:70px;height:70px; -webkit-transition: color 0.3s; -moz-transition: color 0.3s; transition: color 0.3s}
+.tparrows.preview3:after					{	position:absolute;  line-height: 70px;text-align: center; font-family: "revicons"; color:#aaa; font-size:30px; top:0px;left:0px;background:#fff; z-index:100; width:70px;height:70px; -webkit-transition: color 0.3s; -moz-transition: color 0.3s; transition: color 0.3s}
 .tparrows.preview3:hover:after					{	color:#000}
 .tp-rightarrow.preview3:after				{	content: '\e825';  }
 .tp-leftarrow.preview3:after				{	content: '\e824';  }

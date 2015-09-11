@@ -11,6 +11,7 @@
 @c-bgbrown: #ccc1af;
 @c-headbrown: #e3d9ca;
 @c-fontblue: #455b84;
+@c-btnbrown: rgb(218,187,144);
 
 // Loader
 #overlay {
@@ -25,7 +26,7 @@
 }
 
 body {
-	font-family: 'Pacifico';
+
 }
 
 // Hintergrund
@@ -41,11 +42,17 @@ body {
 		color: @c-fontblue !important;
 	}
 
+// Pfeile nach unten
+
+.arrow a {
+	color: @c-fontblue;
+}
+
 /*	------------------------------------------ */
 
 // Button Jumbotron
 .box a {
-	background-color: @c-bgbrown;
+	background-color: @c-btnbrown;
 }
 
 /*	------------------------------------------ */
@@ -71,6 +78,7 @@ body {
 	.carousel-caption h2 span,
 	.footer h2
 	 {
+		font-family: 'Pacifico', cursive;
 		color: @c-headbrown;
 	}
 
@@ -82,6 +90,7 @@ body {
 	.carousel-caption h2,
 	.footer h2 span {
 		color: @c-fontblue;
+		font-family: 'Pacifico', cursive;
 	}
 
 	// Klappboxen
@@ -103,6 +112,7 @@ body {
 
 	.panel-title a {
 		color: @c-fontblue;
+		font-family: 'Pacifico', cursive;
 	}
 
 	.panel-body p,
@@ -149,6 +159,35 @@ body {
 
 // Icons
 
+article .img img {
+	position: absolute!important;
+}
+
+#information > div > div > div.boxFeature > article:nth-child(1) > div > a > img:nth-child(1),
+#information > div > div > div.boxFeature > article:nth-child(1) > div > a > img:nth-child(2) {
+	left: 25px!important;
+	top: 25px!important;
+}
+
+#information > div > div > div.boxFeature > article:nth-child(2) > div > a > img:nth-child(1),
+#information > div > div > div.boxFeature > article:nth-child(2) > div > a > img:nth-child(2) {
+	left: 24px!important;
+	top: 29px!important;
+}
+
+#information > div > div > div.boxFeature > article:nth-child(3) > div > a > img:nth-child(1),
+#information > div > div > div.boxFeature > article:nth-child(3) > div > a > img:nth-child(2) {
+	left: 27px!important;
+	top: 27px!important;
+}
+
+#information > div > div > div.boxFeature > article:nth-child(4) > div > a > img:nth-child(1),
+#information > div > div > div.boxFeature > article:nth-child(4) > div > a > img:nth-child(2) {
+	left: 21px!important;
+	top: 22px!important;
+}
+
+
 .box .fa-sun-o:before {
     top: -1rem;
     position: absolute;
@@ -177,12 +216,26 @@ body {
     right: -1rem;
 }
 
+
+
 /*	------------------------------------------ */
 
 // Navigation
 
+.navbar-brand {
+	text-transform: none;
+	font-family: 'Pacifico', cursive;
+}
+
 .navbar-brand a {
 	border:none;
+	font-family: 'Pacifico', cursive;
+	font-size:3rem;
+
+	& span {
+		font-family: 'Pacifico', cursive;
+		color:@c-fontblue;
+	}
 }
 
 .menu nav ul li a {
@@ -202,4 +255,15 @@ body {
 	padding-bottom: 0.15em;
 }
 
+.carousel-indicators .active {
+	border-color: @c-btn !important;
+}
+
+.author h5 span {
+	color:@c-fontblue;
+}
+
+.underline .line {
+	background: @c-btn;
+}
 

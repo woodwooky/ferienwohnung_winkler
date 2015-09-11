@@ -1,5 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic);
+
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 @import '../rs-plugin/css/settings.css';
 /*------------------------------------------------------------------
  [Master Stylesheet]
@@ -8861,14 +8863,14 @@ p h6 {
 .bannerSlider1 {
   text-transform: uppercase;
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 5.5rem;
   font-weight: 700;
 }
 .bannerSlider2 {
   text-transform: inherit;
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 2.2rem;
   font-weight: 400;
 }
@@ -8904,7 +8906,7 @@ p h6 {
   text-align: center;
 }
 .featuresTitle h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #1d1d1d;
   font-size: 2.4rem;
   text-transform: uppercase;
@@ -8916,7 +8918,7 @@ p h6 {
   position: absolute;
   font-size: 11rem;
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #eeeeee;
   left: 50%;
   top: 40%;
@@ -8946,7 +8948,7 @@ p h6 {
   max-width: 80%;
   margin-bottom: 6rem;
   display: inline-block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #a0a0a0;
   font-size: 1.7rem;
   font-weight: 400;
@@ -8966,20 +8968,20 @@ p h6 {
 }
 .boxFeature h4 {
   margin-top: -4.5rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.7rem;
   font-weight: 400;
   color: #000;
 }
 .boxFeature h4 span {
   font-style: italic;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.9rem;
   font-weight: 400;
   color: #000;
 }
 .boxFeature p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.4rem;
   font-weight: 400;
   color: #727272;
@@ -9063,7 +9065,7 @@ article .img:hover a img:last-child {
   padding-right: 0;
 }
 .descriptions h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 2.8rem;
   color: #fff;
   margin: 0;
@@ -9072,13 +9074,13 @@ article .img:hover a img:last-child {
   margin-bottom: 2.5rem;
 }
 .descriptions h3 span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 2.8rem;
   font-weight: 700;
   color: #f0542d;
 }
 .descriptions .property p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   margin: 0;
@@ -9091,7 +9093,7 @@ article .img:hover a img:last-child {
   width: 32.333333%;
 }
 .items h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 2rem;
   margin: 0;
   font-weight: 700;
@@ -9111,7 +9113,7 @@ article .img:hover a img:last-child {
 }
 .items ul li p {
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #9d9d9d;
   font-size: 1.5rem;
   line-height: 2.6rem;
@@ -9157,7 +9159,7 @@ article .img:hover a img:last-child {
 .panel-title a {
   display: block;
   position: relative;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 700;
   font-size: 1.7rem;
   text-decoration: none;
@@ -9229,7 +9231,7 @@ article .img:hover a img:last-child {
   margin-right: 0;
 }
 .categories ul li span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   font-style: italic;
@@ -9249,7 +9251,7 @@ article .img:hover a img:last-child {
   background: #f0542d;
   padding: 0.4rem;
   font-size: 1.2rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #fff;
   font-weight: 400;
   text-decoration: none;
@@ -9305,7 +9307,7 @@ article .img:hover a img:last-child {
   left: 0.9rem;
   background: rgba(239, 98, 63, 0.9);
   color: #fff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   margin: 0;
@@ -9379,7 +9381,7 @@ article .img:hover a img:last-child {
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-size: 1.8rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #fff;
   font-weight: 400;
   text-decoration: none;
@@ -9446,18 +9448,18 @@ article .img:hover a img:last-child {
   margin-bottom: 1.8rem;
   font-size: 3rem;
   color: #fff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 700;
 }
 .location h3 span {
   color: #f0542d;
   font-size: 3rem;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 700;
 }
 .location p {
   font-style: inherit;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #d3d2d2;
   font-size: 1.6rem;
   font-weight: 400;
@@ -9472,7 +9474,7 @@ article .img:hover a img:last-child {
 }
 .infoContent h4 {
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #f0542d;
   font-size: 1.7rem;
 }
@@ -9521,7 +9523,7 @@ article .img:hover a img:last-child {
   transition: all 0.2s linear;
 }
 .testimonials-1 .media .media-body p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 20px;
@@ -9529,7 +9531,7 @@ article .img:hover a img:last-child {
 }
 .testimonials-1 .media .media-body p a {
   text-decoration: none;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   color: #df6a24;
   -webkit-transition: all 0.2s linear;
@@ -9542,7 +9544,7 @@ article .img:hover a img:last-child {
   color: #4cc3e9;
 }
 .testimonials-1 .media .media-body h5 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 700;
   font-size: 1.8rem;
   color: #000;
@@ -9608,7 +9610,7 @@ article .img:hover a img:last-child {
 }
 .testimonials-2 .carousel .carousel-inner .item p.testimonial {
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
@@ -9636,14 +9638,14 @@ article .img:hover a img:last-child {
   margin: 0 auto 12px;
 }
 .testimonials-2 .carousel .carousel-inner .item .author span.name {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
   color: #1b1c20;
 }
 .testimonials-2 .carousel .carousel-inner .item .author p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
@@ -9699,7 +9701,7 @@ article .img:hover a img:last-child {
   margin-right: 15px;
 }
 .testimonials-3 .container ul li a p.name {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 14px;
@@ -9721,7 +9723,7 @@ article .img:hover a img:last-child {
   color: #dddddd;
 }
 .testimonials-3 .container ul li a p.site {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 14px;
@@ -9765,7 +9767,7 @@ article .img:hover a img:last-child {
   text-align: center;
 }
 .testimonials-3 .container .box-testimonial .testimonial p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 300;
   font-style: italic;
   color: #555c63;
@@ -9804,7 +9806,7 @@ article .img:hover a img:last-child {
 /* AGENT */
 /***********************************************************************************************/
 .aboutAgent h3 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 3rem;
   margin: 0;
   font-weight: 700;
@@ -9815,11 +9817,11 @@ article .img:hover a img:last-child {
 .aboutAgent h3 span {
   color: #f0542d;
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 3rem;
 }
 .aboutAgent p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   margin: 0;
@@ -9868,7 +9870,7 @@ article .img:hover a img:last-child {
   margin-left: -1.5rem;
 }
 .aboutAgent ul li a {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.8rem;
   font-weight: 400;
   color: #f0542d;
@@ -10007,28 +10009,28 @@ article .img:hover a img:last-child {
 .comment-form-themeIndex form input::-webkit-input-placeholder {
   /* WebKit browsers */
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #000!important;
   font-size: 1.5rem;
 }
 .comment-form-themeIndex form input:-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #000!important;
   font-size: 1.5rem;
 }
 .comment-form-themeIndex form input::-moz-placeholder {
   /* Mozilla Firefox 19+ */
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #000!important;
   font-size: 1.5rem;
 }
 .comment-form-themeIndex form input:-ms-input-placeholder {
   /* Internet Explorer 10+ */
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #000!important;
   font-size: 1.5rem;
 }
@@ -10063,14 +10065,14 @@ article .img:hover a img:last-child {
 .comment-form-themeIndex ul li input,
 .comments .comment-respondIndex ul li input {
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #000!important;
   font-size: 1.5rem;
 }
 .comment-form-themeIndex textarea,
 .comments .comment-respondIndex textarea {
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #000!important;
   font-size: 1.5rem;
 }
@@ -10091,14 +10093,14 @@ article .img:hover a img:last-child {
 .wrapper p {
   margin-top: 2rem;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #000!important;
   font-size: 1.7rem;
 }
 .wrapper p span {
   color: #727272;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.5rem;
 }
 .wrapper .hexagon1 {
@@ -10111,7 +10113,9 @@ article .img:hover a img:last-child {
   margin-right: auto;
   text-align: center;
 }
-.wrapper .hexagon1:hover {
+
+/*
+	.wrapper .hexagon1:hover {
   display: block;
   position: relative;
   width: 73px;
@@ -10121,6 +10125,7 @@ article .img:hover a img:last-child {
   margin-right: auto;
   text-align: center;
 }
+*/
 .wrapper .hexagon2 {
   display: block;
   position: relative;
@@ -10131,6 +10136,7 @@ article .img:hover a img:last-child {
   margin-right: auto;
   text-align: center;
 }
+/*
 .wrapper .hexagon2:hover {
   display: block;
   position: relative;
@@ -10141,6 +10147,7 @@ article .img:hover a img:last-child {
   margin-right: auto;
   text-align: center;
 }
+*/
 .wrapper .hexagon3 {
   display: block;
   position: relative;
@@ -10151,6 +10158,7 @@ article .img:hover a img:last-child {
   margin-right: auto;
   text-align: center;
 }
+/*
 .wrapper .hexagon3:hover {
   display: block;
   position: relative;
@@ -10161,6 +10169,7 @@ article .img:hover a img:last-child {
   margin-right: auto;
   text-align: center;
 }
+*/
 /* END HEXAGON WRAPPER */
 /*******************************************************************************/
 /* FOOTER */
@@ -10170,7 +10179,7 @@ article .img:hover a img:last-child {
   text-align: center;
 }
 .footer h2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   cursor: pointer;
   font-size: 2.2rem;
   font-weight: 700;
@@ -10178,7 +10187,7 @@ article .img:hover a img:last-child {
   color: #fff;
 }
 .footer h2 span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   cursor: pointer;
   font-size: 2.2rem;
   font-weight: 700;
@@ -10197,7 +10206,7 @@ article .img:hover a img:last-child {
   margin-top: 2.2rem;
 }
 .footer p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.6rem;
   margin: 0;
   color: #d3d2d2;
@@ -10496,7 +10505,7 @@ article .img:hover a img:last-child {
 }
 .agencyBox h4 {
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #282828;
   line-height: 3rem;
   font-size: 2rem;
@@ -10505,7 +10514,7 @@ article .img:hover a img:last-child {
 }
 .agencyBox p {
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #a0a0a0;
   line-height: 2rem;
   font-size: 1.6rem;
@@ -10531,7 +10540,7 @@ article .img:hover a img:last-child {
   position: absolute;
   font-size: 1.5rem;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
 }
 .progress span.right {
   right: 2rem;
@@ -10542,7 +10551,7 @@ article .img:hover a img:last-child {
   top: 1.1rem;
 }
 .progress span.font {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
   color: #000;
@@ -10566,14 +10575,14 @@ article .img:hover a img:last-child {
   margin-top: 3.5rem;
 }
 .skillBarAgency h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   margin-bottom: 2rem;
   font-weight: 400;
   font-size: 2.7rem;
   color: #282828;
 }
 .skillBarAgency p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   color: #a0a0a0;
   font-size: 1.6rem;
@@ -10583,14 +10592,14 @@ skillBarAgency {
   margin-top: 3.5rem;
 }
 skillBarAgency h4 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   margin-bottom: 2rem;
   font-weight: 400;
   font-size: 2.7rem;
   color: #282828;
 }
 skillBarAgency p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   color: #a0a0a0;
   font-size: 1.6rem;
@@ -10606,7 +10615,7 @@ skillBarAgency p {
   background: #fff;
 }
 .blogPost .blogContent p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   font-size: 1.4rem;
   color: #a0a0a0;
@@ -10647,7 +10656,7 @@ skillBarAgency p {
   color: #a0a0a0;
   font-size: 1.3rem;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   text-decoration: none;
   cursor: default;
 }
@@ -10667,7 +10676,7 @@ skillBarAgency p {
   text-transform: uppercase;
   text-decoration: none;
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   font-size: 1.3rem;
 }
@@ -10709,7 +10718,7 @@ skillBarAgency p {
 }
 .bottomContent ul li span {
   font-weight: 700;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
 }
 .bottomContent ul li span.comments {
   color: #f0542d !important;
@@ -10726,7 +10735,7 @@ skillBarAgency p {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 2.2rem;
   font-weight: 400;
   top: 47%;
@@ -10791,7 +10800,7 @@ skillBarAgency p {
     position: absolute;
     font-size: 1.5rem;
     font-weight: 400;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open sans', sans-serif;
   }
   .progress span.right {
     right: 2rem;
@@ -10826,7 +10835,7 @@ skillBarAgency p {
     bottom: 1.5rem;
   }
   .progress span.font {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open sans', sans-serif;
     font-size: 1.5rem;
     font-weight: 700;
     color: #000;
@@ -11256,7 +11265,7 @@ div.author-info .right-author-info p {
   margin: 3rem 0 3rem 0;
   font-size: 2rem;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   line-height: 2rem;
   text-transform: uppercase;
 }
@@ -11283,14 +11292,14 @@ div.author-info .right-author-info p {
   color: #a0a0a0;
   font-size: 1.3rem;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   text-decoration: none;
   cursor: default;
 }
 .blog-article-content p {
   margin-top: 2.5rem;
   text-align: left;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #a0a0a0;
   font-size: 1.6rem;
   font-weight: 400;
@@ -11300,7 +11309,7 @@ div.author-info .right-author-info p {
   font-size: 1.5rem;
   line-height: 2rem;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
 }
 .blog-article-content .readMore i {
   font-size: 1.5rem;
@@ -11326,7 +11335,7 @@ div.author-info .right-author-info p {
 .article-pagination ul li a {
   background-color: #f0542d;
   display: block;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 700;
   font-size: 1.5rem;
   line-height: 3rem;
@@ -11356,7 +11365,7 @@ div.author-info .right-author-info p {
   text-transform: uppercase;
   padding: 0.5rem 1rem;
   color: #ffffff;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.2rem;
   font-weight: 400;
   border: 0.1rem solid #f0542d;
@@ -11364,7 +11373,7 @@ div.author-info .right-author-info p {
 }
 .blogTags a:first-child {
   color: #000;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-weight: 400;
   background-color: #fff;
   border: none;
@@ -11430,7 +11439,7 @@ div.author-info .right-author-info p {
 .comment-form-theme h4 {
   font-size: 1.8rem;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   float: left;
   color: #f0542d;
 }
@@ -11455,56 +11464,56 @@ div.author-info .right-author-info p {
 .comment-respond form textarea::-webkit-input-placeholder {
   /* WebKit browsers */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .comment-respond form textarea:-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .comment-respond form textarea::-moz-placeholder {
   /* Mozilla Firefox 19+ */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .comment-respond form textarea:-ms-textarea-placeholder {
   /* Internet Explorer 10+ */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .comment-respond form input::-webkit-input-placeholder {
   /* WebKit browsers */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .comment-respond form input:-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .comment-respond form input::-moz-placeholder {
   /* Mozilla Firefox 19+ */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .comment-respond form input:-ms-input-placeholder {
   /* Internet Explorer 10+ */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
@@ -11515,7 +11524,7 @@ div.author-info .right-author-info p {
 .comment-respond ul li {
   border: none!important;
   width: 48%!important;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.3rem;
@@ -11583,28 +11592,28 @@ div.author-info .right-author-info p {
 .search-widget form input::-webkit-input-placeholder {
   /* WebKit browsers */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .search-widget form input:-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .search-widget form input::-moz-placeholder {
   /* Mozilla Firefox 19+ */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
 .search-widget form input:-ms-input-placeholder {
   /* Internet Explorer 10+ */
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #787878!important;
   font-size: 1.5rem;
 }
@@ -12014,9 +12023,7 @@ div.author-info .right-author-info p {
 /***********************************************************************************************/
 .navbar-brand a {
   color: #fff;
-  font-size: 2.2rem!important;
-  font-family: 'Lato', sans-serif !important;
-  text-transform: uppercase;
+  font-size: 2.2rem;
   font-weight: 700;
   border: 0.3rem solid #fff;
   padding-top: 0.3rem;
@@ -12071,7 +12078,7 @@ div.author-info .right-author-info p {
   margin-right: 1.7rem;
 }
 .menu nav ul li a {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
@@ -12404,7 +12411,7 @@ div.author-info .right-author-info p {
   }
 }
 .navbar-brand {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   color: #fff;
   font-weight: 700;
   font-size: 2.4rem;
@@ -13333,7 +13340,7 @@ div.dark_square #pp_full_res .pp_inline {
 .pp_gallery li.default a img {
   display: none;
 }
-/* 
+/*
  * 	Core Owl Carousel CSS File
  *	v1.3.3
  */
@@ -13430,7 +13437,7 @@ div.dark_square #pp_full_res .pp_inline {
 .carouselPresentation .owl-prev,
 .carouselPresentation .owl-next {
   background: #f0542d;
-  font-size: 1.4rem!important0;
+  font-size: 1.4rem!important;
   opacity: 1!important;
   border-radius: 0!important;
   height: 4.4rem;
@@ -13489,7 +13496,7 @@ div.dark_square #pp_full_res .pp_inline {
 .demoOwl .thumbnail h4 {
   font-weight: 700;
   color: #000;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 2.2rem;
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
@@ -13498,13 +13505,13 @@ div.dark_square #pp_full_res .pp_inline {
   font-style: italic;
   font-weight: 400;
   color: #000;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 2.1rem;
 }
 .demoOwl .thumbnail p {
   font-style: italic;
   color: #000;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.7rem;
   line-height: 2rem;
   color: #727272;
@@ -13620,19 +13627,19 @@ div.dark_square #pp_full_res .pp_inline {
   position: initial;
 }
 .carousel-caption h2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 3rem;
   font-weight: 700;
   color: #f0542d;
 }
 .carousel-caption h2 span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 3rem;
   font-weight: 700;
   color: #fff;
 }
 .carousel-caption p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.7rem;
   font-weight: 400;
   color: #d7d7d7;
@@ -13662,7 +13669,7 @@ ol li {
   border: 0.2rem solid #a3a3a3!important;
 }
 .author p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.6rem;
   font-weight: 400;
   color: #fff;
@@ -13670,13 +13677,13 @@ ol li {
   margin-top: -4rem;
 }
 .author h5 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.4rem;
   font-weight: 400;
   color: #a3a3a3;
 }
 .author h5 span {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open sans', sans-serif;
   font-size: 1.4rem;
   font-weight: 400;
   color: #f0542d;
