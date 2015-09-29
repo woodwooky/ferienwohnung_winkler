@@ -479,9 +479,9 @@ hier dann die drittte Zeile des slider					</div>
 						<ul class="clearfix" data-option-key="filter">
 							<li> <a href="#" class="selected" data-option-value="*">
 							<p>Alle</p></a></li>
-							<li> <a href="#" data-option-value=".living"><p>Wohnung</p></a></li>
-							<li> <a href="#" data-option-value=".driveway"><p>Umgebung</p></a></li>
-							<li> <a href="#" data-option-value=".living"><p>Insel</p></a></li>
+							<li> <a href="#" data-option-value=".wohnung"><p>Wohnung</p></a></li>
+							<!--<li> <a href="#" data-option-value=".umgebung"><p>Umgebung</p></a></li>-->
+							<li> <a href="#" data-option-value=".insel"><p>Insel</p></a></li>
 
 						</ul>
 				</div><!--end col-sm-12 -->
@@ -491,7 +491,7 @@ hier dann die drittte Zeile des slider					</div>
 			<div class="row col-sm-12">
 				<div class="contentGallery row">
 					<ul class="clearfix">
-						<li class="drawing col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
 								<a href="assets/img/self/strand_01.jpg">
 									<img src="assets/img/self/strand_01.jpg" alt="" class="img-responsive">
@@ -500,7 +500,7 @@ hier dann die drittte Zeile des slider					</div>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="bedroom col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
 								<a href="assets/img/self/strand_02.jpg">
 									<img src="assets/img/self/strand_02.jpg" alt="" class="img-responsive">
@@ -509,7 +509,7 @@ hier dann die drittte Zeile des slider					</div>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="living col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
 								<a href="assets/img/self/strand_03.jpg">
 									<img src="assets/img/self/strand_03.jpg" alt="" class="img-responsive">
@@ -518,66 +518,104 @@ hier dann die drittte Zeile des slider					</div>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="garage col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/4.jpg">
-									<img src="assets/img/content/4.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/strand_04.jpg">
+									<img src="assets/img/self/strand_04.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="garage col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/5.jpg">
-									<img src="assets/img/content/5.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/strand_05.jpg">
+									<img src="assets/img/self/strand_05.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="driveway col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/6.jpg">
-									<img src="assets/img/content/6.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/strand_06.jpg">
+									<img src="assets/img/self/strand_06.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="driveway col-sm-4 " >
+						<li class="wohnung col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/7.jpg">
-									<img src="assets/img/content/7.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/esszimmer.jpg">
+									<img src="assets/img/self/esszimmer.JPG" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="driveway col-sm-4 " >
+						<li class="wohnung col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/8.jpg">
-									<img src="assets/img/content/8.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/haus.JPG">
+									<img src="assets/img/self/haus.JPG" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="driveway col-sm-4 " >
+						<li class="wohnung col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/Zoom/9.jpg">
-									<img src="assets/img/content/9.jpg" alt="" class="img-responsive">
+								<a href="assets/img/self/kueche.JPG">
+									<img src="assets/img/self/kueche.JPG" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/self/wohnzimmer.JPG">
+									<img src="assets/img/self/wohnzimmer.JPG" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/self/schlafen_1.JPG">
+									<img src="assets/img/self/schlafen_1.JPG" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/self/schlafen_2_1.JPG">
+									<img src="assets/img/self/schlafen_2_1.JPG" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/self/schlafen_2.JPG">
+									<img src="assets/img/self/schlafen_2.JPG" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 					</ul>
-
+					<!--
 					<div class="allButton">
 						<a href="gallery.html">
 							<p>Alle Bilder ansehen</p>
 						</a>
-					</div><!-- end allButton -->
+					</div>
+					-->
+					<!-- end allButton -->
 				</div><!-- end ContetnGallery -->
 			</div><!--end col-sm-12 -->
 			<!-- ========== END GALLERY IMAGES ========== -->
