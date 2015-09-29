@@ -381,23 +381,30 @@ jQuery('#slider').show().revolution(
 
 	        if($(document).scrollTop() > 60)
 	        {
+		        	if($(window).width() > 960) {
 	            $('.back-to-top').css({bottom:"50px"});
-	            $('.menu.middle').css({
+
+		            $('.menu.middle').css({
 		            position:"fixed",
 		            paddingTop:"0",
 		            paddingBottom:"0",
 		            background:"#d8cdbc"
 		            });
+	            }
+
 	        }
 	        else
 	        {
+		         if($(window).width() > 960) {
 	           $('.back-to-top').css({bottom:"-80px"});
+
 	           $('.menu.middle').css({
 		           position:"absolute",
 		           paddingTop:"8rem",
 		           paddingBottom:"2.5rem",
 		           background:"transparent"
 		           });
+		        }
 	        }
     	});
     	$('#overlay').fadeOut();
