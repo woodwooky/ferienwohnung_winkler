@@ -12,13 +12,13 @@ google.maps = google.maps || {};
     document.write('<' + 'script src="' + src + '"' +
       ' type="text/javascript"><' + '/script>');
   }
-  
+
   var modules = google.maps.modules = {};
 
   google.maps.__gjsload__ = function(name, text) {
     modules[name] = text;
   };
-  
+
   google.maps.Load = function(apiLoad) {
     delete google.maps.Load;
     getScript("http://maps.googleapis.com/maps/api/js?sensor=true");
@@ -48,7 +48,7 @@ jQuery(document).ready(function(){
   function initialize() {
 
     var roadAtlasStyles = [
-      
+
     ];
 
     var mapOptions = {
@@ -68,26 +68,24 @@ jQuery(document).ready(function(){
     var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
     var img = jQuery('#map-canvas').data('img');
-     
+
     var marker = new google.maps.Marker({
         position: myLatLng,
         map: map,
         icon: img,
       title: ''
     });
-    
-    var contentString = '<div style="max-width: 300px" id="content">'+
+
+    var contentString = '<div style="max-width: 200px" id="content">'+
         '<div id="bodyContent">'+
-      '<h5 class="color-primary"><strong>StylishThemes</strong></h5>' +
-        '<p style="font-size: 12px">Lorem ipsum dolor sit amet,' +
-        'incididunt ut labore et dolore psum dolor magna aliqua.</p>'+
+      '<h5 class="color-primary">Ferienwohnunug Fabian<br/> Hugo-Droste-Str. 2 <br/>26571 Juist</br></h5>' +
         '</div>'+
         '</div>';
 
     var infowindow = new google.maps.InfoWindow({
         content: contentString
     });
-    
+
     google.maps.event.addListener(marker, 'click', function() {
       infowindow.open(map,marker);
     });
@@ -104,7 +102,7 @@ jQuery(document).ready(function(){
   }
 
   google.maps.event.addDomListener(window, 'load', initialize);
-    
+
 });
 
 <!-- ================================================== -->

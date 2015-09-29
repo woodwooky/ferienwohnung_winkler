@@ -6,17 +6,23 @@
 #	-----
 */
 
+// Farben
 @c-btn: #5b6d9d;
 @c-text: #404040;
 @c-bgbrown: #ccc1af;
-@c-headbrown: #e3d9ca;
+@c-headbrown: #ede3d8;
 @c-fontblue: #455b84;
 @c-btnbrown: rgb(218,187,144);
+@c-section: #d1c5b8;
+
+// Schriftart
+@f-base: 'Pacifico';
 
 // Loader
 #overlay {
 	background-color:#fff;
 }
+
 #progstat {
 	background-color: @c-fontblue;
 
@@ -25,25 +31,20 @@
 	}
 }
 
-body {
-
-}
-
-// Hintergrund
-	.sectionBg {
-		background-color: #ccc1af;
+// Allgemeines
+.sectionBg {
+	background-color: @c-section;
 	}
 
-	p {
-		color:#fff !important;
+p {
+	color:#fff !important;
 	}
 
-	h4 {
-		color: @c-fontblue !important;
+h4 {
+	color: @c-fontblue !important;
 	}
 
 // Pfeile nach unten
-
 .arrow a {
 	color: @c-fontblue;
 }
@@ -64,12 +65,12 @@ body {
 	}
 	// großer Buchstabe bei Headlines
 	.featuresTitle h3 span {
-		color:#e5e1db;
+		color:@c-headbrown;
 	}
 
 /*	------------------------------------------ */
 
-// Abschnitt Ausstattung
+// Abschnitte
 
 	//  headline 1. Teil
 	.descriptions h3,
@@ -78,10 +79,10 @@ body {
 	.carousel-caption h2 span,
 	.footer h2
 	 {
-		font-family: 'Pacifico', cursive;
+		font-family: @f-base;
 		color: @c-headbrown;
+		font-weight: 400;
 	}
-
 
 	//  headline 2. Teil
 	.descriptions h3 span,
@@ -90,16 +91,17 @@ body {
 	.carousel-caption h2,
 	.footer h2 span {
 		color: @c-fontblue;
-		font-family: 'Pacifico', cursive;
+		font-family: @f-base;
+		font-weight: 400;
 	}
 
 	// Klappboxen
 	.panel {
-		background-color: #d8cdbc !important;
+		background-color: @c-headbrown !important;
 	}
 
-	.panel-heading {
-		background-color: #b8a890 !important;
+	.panel-heading, .testimonialPane {
+		background-color: #ab9f96 !important;
 	}
 
 	.panel-title i, .panel-title i:hover {
@@ -112,17 +114,13 @@ body {
 
 	.panel-title a {
 		color: @c-fontblue;
-		font-family: 'Pacifico', cursive;
+		font-family: @f-base;
 	}
 
 	.panel-body p,
 	.boxFeature p {
 		color: @c-text !important;
 	}
-
-/*	------------------------------------------ */
-
-// Abschnitt Galerie
 
 	.categories ul li a,
 	.categories ul li a p,
@@ -224,18 +222,12 @@ article .img img {
 
 .navbar-brand {
 	text-transform: none;
-	font-family: 'Pacifico', cursive;
+	font-family: @f-base;
+	padding: 5px 0px;
 }
 
 .navbar-brand a {
 	border:none;
-	font-family: 'Pacifico', cursive;
-	font-size:3rem;
-
-	& span {
-		font-family: 'Pacifico', cursive;
-		color:@c-fontblue;
-	}
 }
 
 .menu nav ul li a {
@@ -259,6 +251,10 @@ article .img img {
 	border-color: @c-btn !important;
 }
 
+/*	------------------------------------------ */
+
+// Misc
+
 .author h5 span {
 	color:@c-fontblue;
 }
@@ -267,3 +263,17 @@ article .img img {
 	background: @c-btn;
 }
 
+.carousel-caption {
+	text-shadow: none !important;
+}
+
+.vogel {
+	position: absolute;
+	z-index:0;
+	right:0;
+	margin-top:-308px;
+}
+
+.footer h2, .footer h2 span {
+	text-transform: none !important;
+}

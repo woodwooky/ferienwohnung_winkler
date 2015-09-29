@@ -28,7 +28,7 @@
 			  <span class="icon-bar last"></span>
 			</button>
 			<div class="navbar-brand">
-				<a href="index.html">Ferienwohnung <span>Fabian</span></a>
+				<a href="index.html"><img src="assets/img/self/logo_fewo_winkler.png" /></a>
 			</div>
 			<nav>
 				<!-- ============== NAVIGATION ============= -->
@@ -90,7 +90,7 @@
 				<!-- ================================ -->
 				<li data-transition="fade" data-slotamount="7" data-masterspeed="500"  data-saveperformance="off" >
 					<!-- MAIN IMAGE -->
-					<img src="assets/img/slide/dummy.png"  alt="seabg1" data-lazyload="assets/img/slide/rev1.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<img src="assets/img/slide/dummy.png"  alt="seabg1" data-lazyload="assets/img/self/strand_01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 					<!-- LAYERS -->
 					<div class="tp-caption bannerSlider1 customin tp-resizeme rs-parallaxlevel-0"
 					data-x="150"
@@ -171,7 +171,7 @@ hier dann die drittte Zeile des slider					</div>
 				<!-- ================================ -->
 				<li data-transition="fade" data-slotamount="7" data-masterspeed="500"  data-saveperformance="off" >
 					<!-- MAIN IMAGE -->
-					<img src="assets/img/slide/dummy.png"  alt="seabg1" data-lazyload="assets/img/slide/rev2.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<img src="assets/img/slide/dummy.png"  alt="seabg1" data-lazyload="assets/img/self/strand_03.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 					<!-- LAYERS -->
 					<div class="tp-caption bannerSlider1 customin tp-resizeme rs-parallaxlevel-0"
 					data-x="150"
@@ -322,6 +322,9 @@ hier dann die drittte Zeile des slider					</div>
 				</div><!-- end boxFeature -->
 			</div><!-- end row -->
 		</div><!-- end container -->
+					<div class="vogel">
+					<img src="assets/img/self/voegel_juist.png" />
+				</div>
 	</section>
 	<!-- ========== END FEATURES ========== -->
 	<!-- ================================ -->
@@ -671,70 +674,11 @@ hier dann die drittte Zeile des slider					</div>
 					<div class="col-sm-12">
 						<div class="featuresTitle fadeInUp">
 							<h3><span>J</span>Die Insel Juist <span class="hr"></span></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie mi in venenatis convallis.<br>
-	 						habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas duis.</p>
 						</div><!-- end features title -->
 					</div><!-- end col-sm-12 -->
-
-					<div class="col-sm-5">
-							<div class="agencyBox col-sm-4">
-							<img src="assets/img/content/battery.png" alt="...">
-							<img src="assets/img/content/batteryv.png" alt="...">
-							<h4>Strategy and Execution</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur elit
-							donec lacus nibh, vulputate eu dia non sodales </p>
-						</div><!-- end agencyBox -->
-						<div class="agencyBox col-sm-4">
-							<img src="assets/img/content/thing.png" alt="...">
-							<img src="assets/img/content/thingv.png" alt="...">
-							<h4>Focused Offerings</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur elit
-							donec lacus nibh, vulputate eu dia non sodales </p>
-						</div><!-- end agencyBox -->
-						<div class="agencyBox col-sm-4">
-							<img src="assets/img/content/rocket.png" alt="...">
-							<img src="assets/img/content/rocketv.png" alt="...">
-							<h4>Performance Improvement</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur elit
-							donec lacus nibh, vulputate eu dia non sodales </p>
-						</div><!-- end agencyBox -->
-					</div><!-- end col-sm-5 -->
-					<div class="col-sm-7">
-						<div class="skillBarAgency">
-							<h4>Let's get technical</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacus nibh, vulputate eu dia
-							non, sodales tincidunt ligula. Pellentesque molestie nisl in dolor gravida commodo. Lorem
-							ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus nisi id felis fringilla etos
-							lobortis augue lobortis. </p>
-							<!-- ============== BARS ================ -->
-							<!-- ================================ -->
-							<div class="progress">
-							  <div class="progress-bar" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100">
-							  	<span class="left">Branding</span>
-							    <span class="right font">72%</span>
-							  </div><!-- end progress-bar -->
-							</div><!-- end progress -->
-							<div class="progress">
-							  <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-							  	<span class="left">Mobile Applications</span>
-							    <span class="right font">90%</span>
-							  </div><!-- end progress-bar -->
-							</div><!-- end progress -->
-							<div class="progress">
-							  <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100">
-							  	<span class="left">Website Development</span>
-							    <span class="right font">76%</span>
-							  </div><!-- end progress-bar -->
-							</div><!-- end progress -->
-							<div class="progress">
-							  <div class="progress-bar" role="progressbar" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100">
-							  	<span class="left">Photopshop</span>
-							    <span class="right font">52%</span>
-							  </div><!-- end progress-bar -->
-							</div><!-- end progress -->
-						</div><!--end progressBar -->
-						</div><!-- end skillbaragency -->
-					</div><!-- end col-sm-7 -->
+					<div class="col-sm-12">
+						Inhalte folgen in Kürze.
+					</div>
 				</div><!-- end row -->
 			</div><!-- end container -->
 	</section>
@@ -902,10 +846,11 @@ hier dann die drittte Zeile des slider					</div>
 				</div>	<!-- end col-sm-12 -->
 				<div class="contact-details">
 						<div class="wrapper">
+							<a href="mailto:kontakt@fabian-juist.de">
 							<div class="hexagon1"></div>
 							<p>Email Adresse: <br><span>kontakt@fabian-juist.de</span> </p>
+							</a>
 						</div>
-
 						<div class="wrapper">
 							<div class="hexagon2"></div>
 							<p>Adresse: <br> <span>Fasanenhof, Hugo-Droste-Str. 2 </span></p>
