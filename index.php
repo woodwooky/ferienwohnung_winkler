@@ -505,6 +505,15 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 							</div><!--end wrapper-article -->
 						</li>
 
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/self/haus.JPG">
+									<img src="assets/img/self/haus.JPG" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
 						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
 								<a href="assets/img/self/strand_02.jpg">
@@ -559,14 +568,7 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="wohnung col-sm-4 " >
-							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/self/haus.JPG">
-									<img src="assets/img/self/haus.JPG" alt="" class="img-responsive">
-									<h3><img src="assets/img/content/effect.png" alt=""></h3>
-								</a>
-							</div><!--end wrapper-article -->
-						</li>
+
 
 						<li class="wohnung col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
