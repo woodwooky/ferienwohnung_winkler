@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="HandheldFriendly" content="true" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<link rel="SHORTCUT ICON" href="favicon.ico">
 	<title>Ferienwohnung Fabian</title>
 	<!-- ========== CSS INCLUDES ========== -->
 	<link rel="stylesheet" href="assets/css/master.css">
@@ -92,8 +93,8 @@
 					<!-- MAIN IMAGE -->
 					<img src="assets/img/slide/dummy.png"  alt="seabg1" data-lazyload="assets/img/self/strand_01.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 					<!-- LAYERS -->
-					<div class="tp-caption bannerSlider1 customin tp-resizeme rs-parallaxlevel-0"
-					data-x="150"
+					<div class="tp-caption bannerSlider1 customin tp-resizeme rs-parallaxlevel-0 headline"
+					data-x="250"
 					data-y="350"
 					data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
 					data-speed="150"
@@ -105,32 +106,6 @@
 					data-endelementdelay="0.1"
 					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">Traumurlaub auf Juist!
 					</div>
-					<div class="tp-caption bannerSlider2 customin tp-resizeme rs-parallaxlevel-0"
-					data-x="140"
-					data-y="455"
-					data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-					data-speed="150"
-					data-start="285"
-					data-easing="Back.easeOut"
-					data-splitin="none"
-					data-splitout="none"
-					data-elementdelay="0.1"
-					data-endelementdelay="0.1"
-					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">und hier kann dann noch eine kleine Subline dazu, die  die  Headline trägt und ausschmückt
-					</div>
-					<div class="tp-caption bannerSlider2 customin tp-resizeme rs-parallaxlevel-0"
-					data-x="190"
-					data-y="485"
-					data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-					data-speed="150"
-					data-start="285"
-					data-easing="Back.easeOut"
-					data-splitin="none"
-					data-splitout="none"
-					data-elementdelay="0.1"
-					data-endelementdelay="0.1"
-					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-hier dann die drittte Zeile des slider					</div>
 					<div class="tp-caption lfb rs-parallaxlevel-10"
 						data-x="520"
 						data-y="405"
@@ -173,7 +148,7 @@ hier dann die drittte Zeile des slider					</div>
 					<!-- MAIN IMAGE -->
 					<img src="assets/img/slide/dummy.png"  alt="seabg1" data-lazyload="assets/img/self/strand_03.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 					<!-- LAYERS -->
-					<div class="tp-caption bannerSlider1 customin tp-resizeme rs-parallaxlevel-0"
+					<div class="tp-caption bannerSlider1 customin tp-resizeme rs-parallaxlevel-0 headline"
 					data-x="150"
 					data-y="350"
 					data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
@@ -186,32 +161,6 @@ hier dann die drittte Zeile des slider					</div>
 					data-endelementdelay="0.1"
 					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">Die Seele baumeln lassen auf Juist
 				  </div>
-					<div class="tp-caption bannerSlider2 customin tp-resizeme rs-parallaxlevel-0"
-					data-x="140"
-					data-y="455"
-					data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-					data-speed="150"
-					data-start="285"
-					data-easing="Back.easeOut"
-					data-splitin="none"
-					data-splitout="none"
-					data-elementdelay="0.1"
-					data-endelementdelay="0.1"
-					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">Erholsamer Urlaub auf der längsten ostfriesischen Insel </div>
-					<div class="tp-caption bannerSlider2 customin tp-resizeme rs-parallaxlevel-0"
-					data-x="190"
-					data-y="485"
-					data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-					data-speed="150"
-					data-start="285"
-					data-easing="Back.easeOut"
-					data-splitin="none"
-					data-splitout="none"
-					data-elementdelay="0.1"
-					data-endelementdelay="0.1"
-					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-							und wo gehörst du hin??
-					</div>
 					<div class="tp-caption lfb rs-parallaxlevel-10"
 						data-x="520"
 						data-y="405"
@@ -278,8 +227,6 @@ hier dann die drittte Zeile des slider					</div>
 				<div class="col-sm-12">
 					<div class="featuresTitle fadeInUp">
 						<h3><span>F</span>Ferienwohnung Fabian <span class="hr"></span></h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie mi in venenatis convallis.<br>
- 						habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas duis.</p>
 					</div><!-- end features title -->
 				</div><!-- end col-sm-12 -->
 				<div class="boxFeature">
@@ -288,36 +235,36 @@ hier dann die drittte Zeile des slider					</div>
 							<a><img src="assets/img/content/h1.png" alt="..."><img src="assets/img/content/h1.png" alt="..."></a>
 						</div><!-- end img -->
 						<a><img src="assets/img/content/ic.png" alt=""></a>
-						<h4>Quadratmeter 67 m²
+						<h4>Quadratmeter: 55 m²
 						</h4>
-						<p>Helle und freundlich eingerichtete Wohnung bietet Platz für <strong>bis zu vier  Personen</strong>.</p>
+						<p>Hell & freundlich eingerichtete Wohnung bietet Platz für bis zu vier Personen..´</p>
 					</article>
 					<article class="col-sm-3 featureBox">
 												<div class="img">
 							<a ><img src="assets/img/content/h2.png" alt="..."><img src="assets/img/content/h2.png" alt="..."></a>
 						</div><!-- end img -->
 						<a><img src="assets/img/content/ic.png" alt=""></a>
-						<h4>Schlafzimmer 2
+						<h4>Schlafzimmer: 2
 						</h4>
-						<p>Elternschlafzimmer mit Doppelbett und Kinderschlazimmer mit Etagenbett</p>
+						<p>Elternschlafzimmer mit Doppelbett und Kinderzimmer mit Etagenbett</p>
 					</article>
 					<article class="col-sm-3 featureBox">
 												<div class="img">
 							<a><img src="assets/img/content/h3.png" alt="..."><img src="assets/img/content/h3.png" alt="..."></a>
 						</div><!-- end img -->
 						<a><img src="assets/img/content/ic.png" alt=""></a>
-						<h4>Badezimmer 1
+						<h4>Badezimmer: 1
 						</h4>
-						<p>Renoviertes Badezimmer mit Dusche</p>
+						<p>Modernes & gefliestes Badezimmer mit Dusche und WC</p>
 					</article>
 					<article class="col-sm-3 featureBox">
 												<div class="img">
 							<a><img src="assets/img/content/h4.png" alt="..."><img src="assets/img/content/h4.png" alt="..."></a>
 						</div><!-- end img -->
 						<a><img src="assets/img/content/ic.png" alt=""></a>
-						<h4>Terrasse
+						<h4>Terrasse: 1
 						</h4>
-						<p>Gemütliche Terrasse nach Südwesten.</p>
+						<p>Gemütliche & geschützte Sonnenterrasse nach Südwesten.</p>
 					</article>
 				</div><!-- end boxFeature -->
 			</div><!-- end row -->
@@ -329,12 +276,6 @@ hier dann die drittte Zeile des slider					</div>
 	<!-- ========== END FEATURES ========== -->
 	<!-- ================================ -->
 	<!-- ================================ -->
-
-
-
-
-
-
 
 
 
@@ -359,8 +300,9 @@ hier dann die drittte Zeile des slider					</div>
 				<div class="col-sm-7 descriptions" style="padding-left:0;">
 					<div class="property">
 						<h3>Ferienwohnung <span>Ausstattung</span></h3>
-						<p>Kleiner Einstiegstext
-				      über die Wohung olor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.  Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.  Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.  Lorem ipsum dolor sit   </p>
+						<p>Sie planen Ihren Urlaub und suchen nach einer schönen Ferienwohnung auf der Insel Juist?
+Wir bieten Ihnen angenehmes Wohnen in unserer komfortablen Ferienwohnung in ruhiger Sonnenlage. Das helle und freundlich eingerichtete Urlaubsdomizil bietet ausreichend Platz für bis zu vier Personen, die einen großzügigen Wohn- und Essbereich, samt voll ausgestatteter Küche vorfinden werden.
+Das gesamte Ferienapartment „Fabian“ wurde im Winter 2014 umfassenden saniert und erwartet Sie mit Wohnkomfort und Gemütlichkeit. Übrigens ist unsere Erdgeschosswohnung auch Rollstuhl geeignet.</p>
 					</div>
 					<!-- ============== ACCORDION ================ -->
 					<!-- ================================ -->
@@ -377,24 +319,90 @@ hier dann die drittte Zeile des slider					</div>
 									<div class="panel-body">
 										<div class="dimensions items">
 											<ul class="clearfix" >
-												<li class="col-sm-6" ><i class="fa fa fa-arrow-circle-o-right"></i>
-												<p>Feature: <span>Kabel TV 42`</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i>
-												  <p>Feature: <span>Kühlschrank</span></p></li>
-												<li class="col-sm-6" style="margin-right:0;"><i class="fa fa fa-arrow-circle-o-right"></i>
-												  <p>Feature: <span>Gefrierschrank</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i>
-												  <p>Feature: <span>Waschmaschine</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i>
-												<p>Feature:Geschirrspüler</p></li>
-												<li class="col-sm-6" style="margin-right:0;"><i class="fa fa fa-arrow-circle-o-right"></i>
-												  <p>Feature:Laminatboden</p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i>
-												  <p>Feature: <span>windgeschütze Südwestterasse</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i>
-												  <p>Feature: <span>Küchenzeile</span></p></li>
-												<li class="col-sm-6" style="margin-right:0;"><i class="fa fa fa-arrow-circle-o-right"></i>
-												  <p>Feature: <span>Bettwäsche &amp; Handtücher</span></p></li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Kabel TV 42"</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>kostenloses WLAN</p>
+												</li>
+												<li class="col-sm-6"  style="margin-right:0;">
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Kühlschrank</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Gefrierfach</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Waschmaschine</p>
+												</li>
+												<li class="col-sm-6" style="margin-right:0;" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Geschirrspüler</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Laminatboden</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Designboden/Zertifikat „Der blaue Engel“</p>
+												</li>
+												<li class="col-sm-6" style="margin-right:0;" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Südwest - Terrasse</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Küchenzeile</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Herd & Backofen</p>
+												</li>
+												<li class="col-sm-6" style="margin-right:0;" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Mikrowelle</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Toaster</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Bettwäsche & Handtücher</p>
+												</li>
+												<li class="col-sm-6" style="margin-right:0;" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>1 Fahrrad</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Gesellschaftsspiele</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Sandspielzeug</p>
+												</li>
+												<li class="col-sm-6" style="margin-right:0;" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Bollerwagen</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Nichtraucherwohnung</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Keine Haustiere</p>
+												</li>
+												<li class="col-sm-6" style="margin-right:0;" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Rollstuhlgeeignet</p>
+												</li>
 											</ul>
 										</div><!-- end items -->
 									</div>
@@ -413,12 +421,12 @@ hier dann die drittte Zeile des slider					</div>
 									<div class="panel-body">
 										<div class="room items">
 											<ul class="clearfix" >
-												<li class="col-sm-6" ><i class="fa fa fa-arrow-circle-o-right"></i><p>Wohnzimmer: <span>29x18</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i><p>Esszimer: <span>12x11</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i><p>Küche: <span>15x14</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i><p>Elternschlafzimmer: <span>23x14</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i><p>Kinderschlafzimmer: <span>34x14</span></p></li>
-												<li class="col-sm-6"><i class="fa fa fa-arrow-circle-o-right"></i><p>Bad: <span>21x20</span></p></li>
+												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Wohn-/Esszimmer: 4,5m x 5,5m</p></li>
+												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Küche: 3,0m x 2,0m</p></li>
+												<li class="col-sm-6"  style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Schlafzimmer 1: 3,0m x 3,0m</p></li>
+												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Schlafzimmer 2: 3,0m x 2,0m</p></li>
+												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Bad: 3,0m x 2,0m</p></li>
+												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Flur: 1,5m x 2,0m</p></li>
 											</ul>
 										</div><!-- end dimensions -->
 									</div>
@@ -435,10 +443,8 @@ hier dann die drittte Zeile des slider					</div>
 
 								<div class="panel-collapse collapse" id="content-3">
 									<div class="panel-body">
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitaemer
-										pretium enim, et ultrices est. Vivamus blandit molestie justo, ut mollis lect
-										aliquam sodales. Vestibulum sed posuere leo, sed vestibulum velitpiscing
-										pretium enim, et ultrices est vivamus blandit molestie justo.</p>
+										<p>Für das perfekte Urlaubsfeeling bereiten wir unsere Ferienwohnung bezugsfertig mit Bettwäsche und ausreichend Handtüchern für Sie vor. Für Wäsche und Endreinigung fällt ein einmaliger Betrag von 60,00 € an.
+Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Problem, fragen Sie uns einfach. Wir stellen es gern zur Verfügung. </p>
 									</div>
 								</div><!--end panel -collapse -->
 							</div><!--end panel -->
@@ -470,8 +476,7 @@ hier dann die drittte Zeile des slider					</div>
 				<div class="gallery">
 					<div class="featuresTitle fadeInUp">
 						<h3><span>G</span>Galerie Bilder <span class="hr"></span></h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean molestie mi in venenatis convallis.<br>
- 						habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas duis.</p>
+						<p></p>
 					</div><!-- end features title -->
 				</div><!-- end gallery -->
 				<!-- ========== GALLERY CATEGORIES ========== -->
@@ -644,7 +649,9 @@ hier dann die drittte Zeile des slider					</div>
 				<div class="col-sm-7 location">
 					<div class="infoBox">
 						<h3>Lage <span>& Umgebung</span></h3>
-						<p>Die Ferienwohnung Fabian liegt mitten auf der wunderschönen Ostfriesischen Insel Juist. Die naturnahe autofreie Insel in der  Nordsee Nur wenige Gehminuten.......mehr Text schreiebn mit ein paar Schlagwörtern </p>
+						<p>Die Ferienwohnung Fabian liegt mitten auf der wunderschönen ostfriesischen Insel Juist.
+Sie befindet sich im Erdgeschoss des Fasanenhofs im schönen Inselteil Ostdorf.
+Ruhig gelegen, aber trotzdem zentral, bietet sie fußläufig das entspannte Strandleben im Sommer und den perfekten Ausgangspunkt für ausgedehnte Spaziergänge oder schöne Wanderungen zur Herbst-  und Winterzeit.</p>
 					</div><!--info Box -->
 
 					<div class="row">
@@ -652,32 +659,28 @@ hier dann die drittte Zeile des slider					</div>
 							<i class="fa fa-sun-o"></i>
 							<div class="infoContent">
 								<h4>Strand</h4>
-								<p>Lorem ipsum dolor sit amet,
-								consectetur adipiscing elit.</p>
+								<p>5 min Fußweg zum schönen feinkörnigen Strand </p>
 							</div>
 						</div>
 						<div class="box col-sm-6 top0">
 							<i class="fa fa-shopping-cart"></i>
 							<div class="infoContent">
 								<h4>Supermarkt & Shops</h4>
-								<p>Lorem ipsum dolor sit amet,
-								consectetur adipiscing elit.</p>
+								<p>5 Minuten Fußweg, ein kleiner Laden ist direkt nebenan</p>
 							</div>
 						</div>
 						<div class="box col-sm-6 top1">
 							<i class="fa fa-camera"></i>
 							<div class="infoContent">
-								<h4>Sehnswürdigkeit2</h4>
-								<p>Lorem ipsum dolor sit amet,
-								consectetur adipiscing elit.</p>
+								<h4>Sehnswürdigkeit</h4>
+								<p>Idyllische Dünenlandschaft, Goldfischteiche, Otto-Leege-Pfad in direkter Nähe</p>
 							</div>
 						</div>
 						<div class="box col-sm-6 top2">
 							<i class="fa fa-anchor"></i>
 							<div class="infoContent">
-								<h4>Hafen</h4>
-								<p>Lorem ipsum dolor sit amet,
-								consectetur adipiscing elit.</p>
+								<h4>Ausflugsziel</h4>
+								<p><a href="https://de.wikipedia.org/wiki/Hammersee_%28Juist%29" target="_blank">Hammersee</a>Der größte Süßwassersee der Ostfriesischen Inseln </p>
 							</div>
 						</div>
 					</div>
@@ -715,7 +718,15 @@ hier dann die drittte Zeile des slider					</div>
 						</div><!-- end features title -->
 					</div><!-- end col-sm-12 -->
 					<div class="col-sm-12">
-						Inhalte folgen in Kürze.
+						Juist, eine der ostfriesischen Nordseeinseln im niedersächsischen Wattenmeer, ist Garant für eine autofreie Erholung ohne Hektik und Abgase. Mit ihrer Länge von 17 Kilometern ist sie  die längste der ostfriesischen Inseln und hat für Ihre Urlauber einiges zu bieten.
+Von den Einheimischen nur liebevoll „Töwerland“ genannt, welches im Friesischen soviel wie „Zauberland“ bedeutet, verzaubert sie mit ihrer einmaligen Dünen-Landschaft und dem kilometerlangem feinem Sandstrand. Hier finden Sie Ruhe und Erholung von der Hektik des Alltags und können inmitten einer wunderschönen Naturlandschaft entspannen.
+						<ul style="padding-top: 1em;">
+							<li>Touristeninformation Juist (http://www.juist.de/)</li>
+							<li>Wiki Juist (https://de.wikipedia.org/wiki/Juist)</li>
+							<li>Facebook Juist (https://www.facebook.com/InselJuist)</li>
+							<li>Juister Online Zeitung ( http://www.juistnews.de)</li>
+							<li>Fährenfahrplan ( http://www.reederei-frisia.de/fahrplaene/juist.html)</li>
+						</ul>
 					</div>
 				</div><!-- end row -->
 			</div><!-- end container -->
@@ -853,10 +864,12 @@ hier dann die drittte Zeile des slider					</div>
 				<div class="col-sm-12 ">
 					<div class="featuresTitle fadeInUp">
 						<h3><span>K</span>Kontakt<span class="hr"></span></h3>
-						<p>Sie würden gerne Familienurlaub auf der wunderschönen Insel Juist machen? Sprechen Sie uns an!</p>
 					</div><!-- end features title -->
+					<p style="color:#404040  !important; padding-top: 1em;" align="center">Juist Zauber – Michael Smidt
+Handy:   017684737801</p>
 					<!-- Comment Form and Contact Form -->
-					<div class="comment-form-themeIndex">
+					<!--
+						<div class="comment-form-themeIndex">
 						<div class="comment-respondIndex">
 							<form action="#" method="post" class="comment-form">
 								<ul class="comment-form-inputs">
@@ -880,6 +893,7 @@ hier dann die drittte Zeile des slider					</div>
 							</form>
 							</div>
 						</div>
+						-->
 					</div>	<!-- end form html -->
 				</div>	<!-- end col-sm-12 -->
 				<div class="contact-details">
@@ -896,7 +910,7 @@ hier dann die drittte Zeile des slider					</div>
 
 						<div class="wrapper">
 							<div class="hexagon3"></div>
-							<p>Telefon: <br><span>+0721 427 010</span></p>
+							<p>Telefon: <br><span>04935 2380 100 (10.00-18.00 Uhr)</span></p>
 						</div>
 					</div>
 			</div>	<!-- end row -->
@@ -925,11 +939,6 @@ hier dann die drittte Zeile des slider					</div>
 			<p>
 						Erholsame Ferien auf Juist <br>		Seit 1998.
 			</p>
-			<div class="social">
-
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-facebook"></i></a>
-			</div>
 		</div>
 	</section>
 	<!-- ================================ -->
