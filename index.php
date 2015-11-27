@@ -132,7 +132,7 @@
 					data-elementdelay="0.1"
 					data-endelementdelay="0.1"
 					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-							<a href="#about" data-easing="easeInOutCubic" data-scroll="" data-speed="1200" data-url="false">Jetzt buchen!</a>
+							<a href="#contact" class="booking" data-easing="easeInOutCubic" data-scroll="" data-speed="1200" data-url="false">Jetzt buchen!</a>
 					</div>
 
 
@@ -187,7 +187,7 @@
 					data-elementdelay="0.1"
 					data-endelementdelay="0.1"
 					style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-							<a href="#about" data-easing="easeInOutCubic" data-scroll="" data-speed="1200" data-url="false">Jetzt buchen!</a>
+							<a href="#contact" class="booking" data-easing="easeInOutCubic" data-scroll="" data-speed="1200" data-url="false">Jetzt buchen!</a>
 					</div>
 				</li>
 				<!-- ================================ -->
@@ -287,12 +287,14 @@
 			<div class="row">
 				<div class="col-sm-5">
 					<div class="carouselPresentation row">
-							<img src="assets/img/self/haus.JPG" alt="img">
-							<img src="assets/img/self/wohnzimmer.JPG" alt="img">
-							<img src="assets/img/self/schlafen_1.JPG" alt="img">
-							<img src="assets/img/self/schlafen_2.JPG" alt="img">
-							<img src="assets/img/self/kueche.JPG" alt="img">
-							<img src="assets/img/self/esszimmer.JPG" alt="img">
+							<img src="assets/img/eigene/ferienwohnung_fabian_juist.jpg" alt="img">
+							<img src="assets/img/eigene/wohnung_urlaub.jpg" alt="img">
+							<img src="assets/img/eigene/urlaubsdomizil_insel.jpg" alt="img">
+							<img src="assets/img/eigene/urlaub_juist_ostdorf.jpg" alt="img">
+							<img src="assets/img/eigene/nordsee_ferien.jpg" alt="img">
+							<img src="assets/img/eigene/fasanenhof_juist.jpg" alt="img">
+							<img src="assets/img/eigene/ferienhaus_insel_norsee.jpg" alt="img">
+							<img src="assets/img/eigene/grundriss.jpg" alt="img">
 
 					</div><!--emd carouselPresentation -->
 				</div><!--end col-sm-5 -->
@@ -493,6 +495,8 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 				<!-- ========== END GALLERY CATEGRIES ========== -->
 			</div><!-- end colsm-12 -->
 			<!-- ========== STAR GALLERY IMAGES ========== -->
+
+
 			<div class="row col-sm-12">
 				<div class="contentGallery row">
 					<ul class="clearfix">
@@ -507,8 +511,8 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 
 						<li class="wohnung col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/self/haus.JPG">
-									<img src="assets/img/self/haus.JPG" alt="" class="img-responsive">
+								<a href="assets/img/eigene/ferienwohnung_fabian_juist.jpg">
+									<img src="assets/img/eigene/ferienwohnung_fabian_juist.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
@@ -523,6 +527,15 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 							</div><!--end wrapper-article -->
 						</li>
 
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/eigene/wohnung_urlaub.jpg">
+									<img src="assets/img/eigene/wohnung_urlaub.jpg" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
 						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
 								<a href="assets/img/self/strand_03.jpg">
@@ -531,6 +544,16 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
+
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/eigene/urlaubsdomizil_insel.jpg">
+									<img src="assets/img/eigene/urlaubsdomizil_insel.jpg" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
 
 						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
@@ -541,10 +564,28 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 							</div><!--end wrapper-article -->
 						</li>
 
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/eigene/urlaub_juist_ostdorf.jpg">
+									<img src="assets/img/eigene/urlaub_juist_ostdorf.jpg" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
 						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
 								<a href="assets/img/self/strand_05.jpg">
 									<img src="assets/img/self/strand_05.jpg" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
+						<li class="wohnung col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/eigene/nordsee_ferien.jpg">
+									<img src="assets/img/eigene/nordsee_ferien.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
@@ -561,28 +602,17 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 
 						<li class="wohnung col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/self/esszimmer.jpg">
-									<img src="assets/img/self/esszimmer.JPG" alt="" class="img-responsive">
+								<a href="assets/img/eigene/fasanenhof_juist.jpg">
+									<img src="assets/img/eigene/fasanenhof_juist.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 
-
-
-						<li class="wohnung col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/self/kueche.JPG">
-									<img src="assets/img/self/kueche.JPG" alt="" class="img-responsive">
-									<h3><img src="assets/img/content/effect.png" alt=""></h3>
-								</a>
-							</div><!--end wrapper-article -->
-						</li>
-
-						<li class="wohnung col-sm-4 " >
-							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/self/wohnzimmer.JPG">
-									<img src="assets/img/self/wohnzimmer.JPG" alt="" class="img-responsive">
+								<a href="assets/img/eigene/entspannen_juist.jpg">
+									<img src="assets/img/eigene/entspannen_juist.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
@@ -590,30 +620,59 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 
 						<li class="wohnung col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/self/schlafen_1.JPG">
-									<img src="assets/img/self/schlafen_1.JPG" alt="" class="img-responsive">
+								<a href="assets/img/eigene/ferienhaus_insel_norsee.jpg">
+									<img src="assets/img/eigene/ferienhaus_insel_norsee.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="wohnung col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/self/schlafen_2_1.JPG">
-									<img src="assets/img/self/schlafen_2_1.JPG" alt="" class="img-responsive">
+								<a href="assets/img/eigene/familienurlaub_herbst.jpg">
+									<img src="assets/img/eigene/familienurlaub_herbst.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
 
-						<li class="wohnung col-sm-4 " >
+						<li class="insel col-sm-4 " >
 							<div class="wrapper-article galleryPopup1">
-								<a href="assets/img/self/schlafen_2.JPG">
-									<img src="assets/img/self/schlafen_2.JPG" alt="" class="img-responsive">
+								<a href="assets/img/eigene/ferien_am_meer_wohnung.jpg.jpg">
+									<img src="assets/img/eigene/ferien_am_meer_wohnung.jpg" alt="" class="img-responsive">
 									<h3><img src="assets/img/content/effect.png" alt=""></h3>
 								</a>
 							</div><!--end wrapper-article -->
 						</li>
+
+						<li class="insel col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/eigene/ferienwohnung_ostfriesland.jpg">
+									<img src="assets/img/eigene/ferienwohnung_ostfriesland.jpg" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
+						<li class="insel col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/eigene/urlaub_auf_juist.jpg">
+									<img src="assets/img/eigene/urlaub_auf_juist.jpg" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
+						<li class="insel col-sm-4 " >
+							<div class="wrapper-article galleryPopup1">
+								<a href="assets/img/eigene/grundriss.jpg">
+									<img src="assets/img/eigene/grundriss.jpg" alt="" class="img-responsive">
+									<h3><img src="assets/img/content/effect.png" alt=""></h3>
+								</a>
+							</div><!--end wrapper-article -->
+						</li>
+
+
 					</ul>
 					<!--
 					<div class="allButton">
@@ -682,7 +741,7 @@ Ruhig gelegen, aber trotzdem zentral, bietet sie fußläufig das entspannte Stra
 							<i class="fa fa-anchor"></i>
 							<div class="infoContent">
 								<h4>Ausflugsziel</h4>
-								<p><a href="https://de.wikipedia.org/wiki/Hammersee_%28Juist%29" target="_blank">Hammersee</a>Der größte Süßwassersee der Ostfriesischen Inseln </p>
+								<p><a href="https://de.wikipedia.org/wiki/Hammersee_%28Juist%29" class="linkspecial" target="_blank">Hammersee</a><br/>Der größte Süßwassersee der Ostfriesischen Inseln </p>
 							</div>
 						</div>
 					</div>
@@ -711,7 +770,7 @@ Ruhig gelegen, aber trotzdem zentral, bietet sie fußläufig das entspannte Stra
 	<!-- ================================ -->
 	<!-- ================================ -->
 	<section class="sectionPadding" style="padding-top:17.5rem; padding-bottom:9.5rem;" id="juist">
-		<div class="agencyContent">
+		<div class="juistContent">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-12">
@@ -723,11 +782,11 @@ Ruhig gelegen, aber trotzdem zentral, bietet sie fußläufig das entspannte Stra
 						Juist, eine der ostfriesischen Nordseeinseln im niedersächsischen Wattenmeer, ist Garant für eine autofreie Erholung ohne Hektik und Abgase. Mit ihrer Länge von 17 Kilometern ist sie  die längste der ostfriesischen Inseln und hat für Ihre Urlauber einiges zu bieten.
 Von den Einheimischen nur liebevoll „Töwerland“ genannt, welches im Friesischen soviel wie „Zauberland“ bedeutet, verzaubert sie mit ihrer einmaligen Dünen-Landschaft und dem kilometerlangem feinem Sandstrand. Hier finden Sie Ruhe und Erholung von der Hektik des Alltags und können inmitten einer wunderschönen Naturlandschaft entspannen.
 						<ul style="padding-top: 1em;">
-							<li>Touristeninformation Juist (http://www.juist.de/)</li>
-							<li>Wiki Juist (https://de.wikipedia.org/wiki/Juist)</li>
-							<li>Facebook Juist (https://www.facebook.com/InselJuist)</li>
-							<li>Juister Online Zeitung ( http://www.juistnews.de)</li>
-							<li>Fährenfahrplan ( http://www.reederei-frisia.de/fahrplaene/juist.html)</li>
+							<li><a href="http://www.juist.de/" target="_blank">Touristeninformation Juist</a></li>
+							<li><a href="https://de.wikipedia.org/wiki/Juist" target="_blank">Wiki Juist</a></li>
+							<li><a href="https://www.facebook.com/InselJuist" target="_blank">Facebook Juist</a></li>
+							<li><a href="http://www.juistnews.de" target="_blank">Juister Online Zeitung</a></li>
+							<li><a href="http://www.juist.de/http://www.reederei-frisia.de/fahrplaene/juist.html" target="_blank">Fährenfahrplan</a></li>
 						</ul>
 					</div>
 				</div><!-- end row -->
@@ -749,107 +808,72 @@ Von den Einheimischen nur liebevoll „Töwerland“ genannt, welches im Friesis
 
 
 
+		<!-- ================================ -->
+	<!-- ========== STARTING AGENCY ========== -->
 	<!-- ================================ -->
-	<!-- ========== STARTING TESTIMONIALS ========== -->
 	<!-- ================================ -->
-	<!-- ================================ -->
-	<!-- ================================ -->
-	<section class="sectionPadding sectionBg" style="padding-top:8rem;">
-		<div class="testimonialContent">
+	<section class="sectionPadding sectionBg" style="padding-top:17.5rem; padding-bottom:9.5rem;">
+		<div class="agencyContent">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-12" style="padding:0;">
-					  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-					  <!-- Indicators -->
-					  <ol class="carousel-indicators">
-					    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-					    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-					    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-					  </ol>
-
-					  <!-- Wrapper for slides -->
-					  <div class="carousel-inner" role="listbox">
-					    <div class="item active">
-					      <div class="carousel-caption">
-					      	<div class="sectionTitle">
-								<h2><span>Eindrücke</span> unserer Gäste</h2>
-								<div class="underline">
-									<span class="line" ></span>
-								</div><!--end underline -->
-							</div><!--end sectionTitle -->
-
-							<div class="testimonialPane">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacus nibh, vulputate eu diam non, sodales tincidunt ligula. <br>
-								Pellentesque molestie nisl in dolor gravida commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
-								Donec lacus nibh, vulputate eu diam non, sodales tincidunt ligula ellentesque molestie nisl in dolor gravida commodo. <br></p>
-							</div><!-- end testimonialPane -->
-							<div class="author">
-								<img src="assets/img/content/author.png" alt="">
-								<p>Tilvar Claudiu</p>
-								<h5>CEO <span>Elephant Themes</span></h5>
-							</div>
-					      </div>
-					    </div>
-					    <div class="item">
-					      <div class="carousel-caption">
-					      	<div class="sectionTitle">
-								<h2><span>Client</span> Testimonial</h2>
-								<div class="underline">
-									<span class="line" ></span>
-								</div><!--end underline -->
-							</div><!--end sectionTitle -->
-
-							<div class="testimonialPane">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacus nibh, vulputate eu diam non, sodales tincidunt ligula. <br>
-								Pellentesque molestie nisl in dolor gravida commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
-								Donec lacus nibh, vulputate eu diam non, sodales tincidunt ligula ellentesque molestie nisl in dolor gravida commodo. <br></p>
-							</div><!-- end testimonialPane -->
-							<div class="author">
-								<img src="assets/img/content/t1.png" alt="">
-								<p>Tilvar Claudiu</p>
-								<h5>CEO <span>Elephant Themes</span></h5>
-							</div>
-					      </div><!-- end carousel caption -->
-						</div>
-						<div class="item">
-					      <div class="carousel-caption">
-					      	<div class="sectionTitle">
-								<h2><span>Client</span> Testimonial</h2>
-								<div class="underline">
-									<span class="line" ></span>
-								</div><!--end underline -->
-							</div><!--end sectionTitle -->
-
-							<div class="testimonialPane">
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacus nibh, vulputate eu diam non, sodales tincidunt ligula. <br>
-								Pellentesque molestie nisl in dolor gravida commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
-								Donec lacus nibh, vulputate eu diam non, sodales tincidunt ligula ellentesque molestie nisl in dolor gravida commodo. <br></p>
-							</div><!-- end testimonialPane -->
-							<div class="author">
-								<img src="assets/img/content/t2.png" alt="">
-								<p>Tilvar Claudiu</p>
-								<h5>CEO <span>Elephant Themes</span></h5>
-							</div>
-					      </div><!-- end carousel caption -->
-						</div>
-					    </div>
-					    </div>
-					  </div>
-
-					  <!-- Controls -->
-					 <!--  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-					    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-					    <span class="sr-only">Previous</span>
-					  </a>
-					  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-					    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-					    <span class="sr-only">Next</span>
-					  </a> -->
+					<div class="col-sm-12 preise">
+						<div class="infoBox">
+							<h3>Preise</h3>
+							<p>Die Preise verstehen sich pro Tag bei einer Vollbelegung. <br/>Nehmen Sie <a href="#contact">Kontakt</a> mit uns auf für ein unverbindliches Angebot.</p>
+						</div><!-- end features title -->
 					</div><!-- end col-sm-12 -->
+
+					<div class="col-sm-5">
+							<div class="agencyBox col-sm-4">
+							<img src="assets/img/content/h4.png" alt="...">
+							<h4>Hauptsaison</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur elit
+							donec lacus nibh, vulputate eu dia non sodales </p>
+						</div><!-- end agencyBox -->
+						<div class="agencyBox col-sm-4">
+							<img src="assets/img/content/h4.png" alt="...">
+							<h4>Nebensaison</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur elit
+							donec lacus nibh, vulputate eu dia non sodales </p>
+						</div><!-- end agencyBox -->
+						<div class="agencyBox col-sm-4">
+							<img src="assets/img/content/h4.png" alt="...">
+							<h4>Übrige Zeiten</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur elit
+							donec lacus nibh, vulputate eu dia non sodales </p>
+						</div><!-- end agencyBox -->
+					</div><!-- end col-sm-5 -->
+					<div class="col-sm-7">
+						<div class="skillBarAgency">
+							<h4>Preisstaffelung</h4>
+							<!-- ============== BARS ================ -->
+							<!-- ================================ -->
+							<div class="progress">
+							  <div class="progress-bar" role="progressbar" aria-valuenow="140.00" aria-valuemin="0" aria-valuemax="150">
+							  	<span class="left">Hauptsaison</span>
+							    <span class="right font">140,00 €</span>
+							  </div><!-- end progress-bar -->
+							</div><!-- end progress -->
+							<div class="progress">
+							  <div class="progress-bar" role="progressbar" aria-valuenow="90.00" aria-valuemin="0" aria-valuemax="150">
+							  	<span class="left">Nebensaison</span>
+							    <span class="right font">90,00 €</span>
+							  </div><!-- end progress-bar -->
+							</div><!-- end progress -->
+							<div class="progress">
+							  <div class="progress-bar" role="progressbar" aria-valuenow="85.00" aria-valuemin="0" aria-valuemax="150">
+							  	<span class="left">Übrige Zeiten</span>
+							    <span class="right font">85,00 €</span>
+							  </div><!-- end progress-bar -->
+							</div><!-- end progress -->
+						</div><!--end progressBar -->
+						</div><!-- end skillbaragency -->
+					</div><!-- end col-sm-7 -->
 				</div><!-- end row -->
 			</div><!-- end container -->
 	</section>
-	<!-- ========== END TESTIMONIALS ========== -->
+	<!-- ================================ -->
+	<!-- ========== END AGENCY ========== -->
 	<!-- ================================ -->
 	<!-- ================================ -->
 
@@ -866,11 +890,11 @@ Von den Einheimischen nur liebevoll „Töwerland“ genannt, welches im Friesis
 				<div class="col-sm-12 ">
 					<div class="featuresTitle fadeInUp">
 						<h3><span>K</span>Kontakt<span class="hr"></span></h3>
+						<p style="color:#404040  !important; padding-top: 1em;" align="center">Juist Zauber – Michael Smidt - 10.00-18.00 Uhr</p>
 					</div><!-- end features title -->
-					<p style="color:#404040  !important; padding-top: 1em;" align="center">Juist Zauber – Michael Smidt
-Handy:   017684737801</p>
-					<!-- Comment Form and Contact Form -->
-					<!--
+
+
+<!--
 						<div class="comment-form-themeIndex">
 						<div class="comment-respondIndex">
 							<form action="#" method="post" class="comment-form">
@@ -895,8 +919,13 @@ Handy:   017684737801</p>
 							</form>
 							</div>
 						</div>
-						-->
-					</div>	<!-- end form html -->
+
+					</div>
+
+
+					-->
+
+
 				</div>	<!-- end col-sm-12 -->
 				<div class="contact-details">
 						<div class="wrapper">
@@ -912,7 +941,8 @@ Handy:   017684737801</p>
 
 						<div class="wrapper">
 							<div class="hexagon3"></div>
-							<p>Telefon: <br><span>04935 2380 100 (10.00-18.00 Uhr)</span></p>
+							<p>Telefon: <br><span>04935 2380 100<br/>0176 84737801</span></p>
+
 						</div>
 					</div>
 			</div>	<!-- end row -->

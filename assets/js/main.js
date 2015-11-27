@@ -428,9 +428,9 @@ function handleSkillBars() {
 
      skillBarWidth = jQuery(this).attr('aria-valuenow');
 
-     jQuery(this).css('width', skillBarWidth + '%');
+     jQuery(this).css('width', skillBarWidth/2 + '%');
 
-     jQuery(this).find('span.font').text(skillBarWidth + '%')
+     jQuery(this).find('span.font').text(skillBarWidth + ' €')
 
     });
 
