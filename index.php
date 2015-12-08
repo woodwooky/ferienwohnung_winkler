@@ -304,11 +304,12 @@
 						<h3>Ferienwohnung <span>Ausstattung</span></h3>
 						<p>Sie planen Ihren Urlaub und suchen nach einer schönen Ferienwohnung auf der Insel Juist?
 Wir bieten Ihnen angenehmes Wohnen in unserer komfortablen Ferienwohnung in ruhiger Sonnenlage. Das helle und freundlich eingerichtete Urlaubsdomizil bietet ausreichend Platz für bis zu vier Personen, die einen großzügigen Wohn- und Essbereich, samt voll ausgestatteter Küche vorfinden werden.
-Das gesamte Ferienapartment „Fabian“ wurde im Winter 2014 umfassenden saniert und erwartet Sie mit Wohnkomfort und Gemütlichkeit. Übrigens ist unsere Erdgeschosswohnung auch Rollstuhl geeignet.</p>
+Das gesamte Ferienapartment „Fabian“ wurde im Winter 2014 umfassend saniert und erwartet Sie mit Wohnkomfort und Gemütlichkeit. Übrigens ist unsere Erdgeschosswohnung auch Rollstuhl geeignet.</p>
 					</div>
 					<!-- ============== ACCORDION ================ -->
 					<!-- ================================ -->
-						<div class="panel-group" id="accordion">
+					
+	<div class="panel-group" id="accordion">
 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<h4 class="panel-title">
@@ -329,7 +330,27 @@ Das gesamte Ferienapartment „Fabian“ wurde im Winter 2014 umfassenden sanier
 													<i class="fa fa fa-arrow-circle-o-right"></i>
 														<p>kostenloses WLAN</p>
 												</li>
+                                                <li class="col-sm-6" style="margin-right:0;" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Südwest - Terrasse</p>
+												</li>
 												<li class="col-sm-6"  style="margin-right:0;">
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Küchenzeile</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Herd  &amp; Backofen</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Mikrowelle</p>
+												</li>
+												<li class="col-sm-6" style="margin-right:0;" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Toaster</p>
+												</li>
+												<li class="col-sm-6" >
 													<i class="fa fa fa-arrow-circle-o-right"></i>
 														<p>Kühlschrank</p>
 												</li>
@@ -337,45 +358,26 @@ Das gesamte Ferienapartment „Fabian“ wurde im Winter 2014 umfassenden sanier
 													<i class="fa fa fa-arrow-circle-o-right"></i>
 														<p>Gefrierfach</p>
 												</li>
+												
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Geschirrspüler</p>
+												</li>
 												<li class="col-sm-6" >
 													<i class="fa fa fa-arrow-circle-o-right"></i>
 														<p>Waschmaschine</p>
 												</li>
 												<li class="col-sm-6" style="margin-right:0;" >
 													<i class="fa fa fa-arrow-circle-o-right"></i>
-														<p>Geschirrspüler</p>
+														<p>Handtücher</p>
+												</li>
+												<li class="col-sm-6" >
+													<i class="fa fa fa-arrow-circle-o-right"></i>
+														<p>Bettwäsche </p>
 												</li>
 												<li class="col-sm-6" >
 													<i class="fa fa fa-arrow-circle-o-right"></i>
 														<p>Laminatboden</p>
-												</li>
-												<li class="col-sm-6" >
-													<i class="fa fa fa-arrow-circle-o-right"></i>
-														<p>Designboden/Zertifikat „Der blaue Engel“</p>
-												</li>
-												<li class="col-sm-6" style="margin-right:0;" >
-													<i class="fa fa fa-arrow-circle-o-right"></i>
-														<p>Südwest - Terrasse</p>
-												</li>
-												<li class="col-sm-6" >
-													<i class="fa fa fa-arrow-circle-o-right"></i>
-														<p>Küchenzeile</p>
-												</li>
-												<li class="col-sm-6" >
-													<i class="fa fa fa-arrow-circle-o-right"></i>
-														<p>Herd & Backofen</p>
-												</li>
-												<li class="col-sm-6" style="margin-right:0;" >
-													<i class="fa fa fa-arrow-circle-o-right"></i>
-														<p>Mikrowelle</p>
-												</li>
-												<li class="col-sm-6" >
-													<i class="fa fa fa-arrow-circle-o-right"></i>
-														<p>Toaster</p>
-												</li>
-												<li class="col-sm-6" >
-													<i class="fa fa fa-arrow-circle-o-right"></i>
-														<p>Bettwäsche & Handtücher</p>
 												</li>
 												<li class="col-sm-6" style="margin-right:0;" >
 													<i class="fa fa fa-arrow-circle-o-right"></i>
@@ -410,7 +412,6 @@ Das gesamte Ferienapartment „Fabian“ wurde im Winter 2014 umfassenden sanier
 									</div>
 								</div><!--end panel -collapse -->
 							</div><!--end panel -->
-
 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<h4 class="panel-title">
@@ -425,7 +426,7 @@ Das gesamte Ferienapartment „Fabian“ wurde im Winter 2014 umfassenden sanier
 											<ul class="clearfix" >
 												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Wohn-/Esszimmer: 4,5m x 5,5m</p></li>
 												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Küche: 3,0m x 2,0m</p></li>
-												<li class="col-sm-6"  style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Schlafzimmer 1: 3,0m x 3,0m</p></li>
+												<li class="col-sm-6"  style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Schlafzimmer 1: 3,0m x 3,5m</p></li>
 												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Schlafzimmer 2: 3,0m x 2,0m</p></li>
 												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Bad: 3,0m x 2,0m</p></li>
 												<li class="col-sm-6" style="width:100%;"><i class="fa fa fa-arrow-circle-o-right"></i><p>Flur: 1,5m x 2,0m</p></li>
@@ -711,7 +712,7 @@ Sollten Sie ein Kinderreisebett oder einen Hochstuhl benötigen. Alles kein Prob
 					<div class="infoBox">
 						<h3>Lage <span>& Umgebung</span></h3>
 						<p>Die Ferienwohnung Fabian liegt mitten auf der wunderschönen ostfriesischen Insel Juist.
-Sie befindet sich im Erdgeschoss des Fasanenhofs im schönen Inselteil Ostdorf.
+Sie befindet sich im Erdgeschoss des Fasanenhofs im schönen Ostdorf.
 Ruhig gelegen, aber trotzdem zentral, bietet sie fußläufig das entspannte Strandleben im Sommer und den perfekten Ausgangspunkt für ausgedehnte Spaziergänge oder schöne Wanderungen zur Herbst-  und Winterzeit.</p>
 					</div><!--info Box -->
 
@@ -818,7 +819,7 @@ Von den Einheimischen nur liebevoll „Töwerland“ genannt, welches im Friesis
 				<div class="row">
 					<div class="col-sm-12 preise">
 						<div class="infoBox">
-							<h3>Preise</h3>
+							<h3>Preise 2016</h3>
 							<p>Die Preise verstehen sich pro Tag bei einer Vollbelegung. <br/>Nehmen Sie <a href="#contact">Kontakt</a> mit uns auf für ein unverbindliches Angebot.</p>
 						</div><!-- end features title -->
 					</div><!-- end col-sm-12 -->
@@ -827,20 +828,20 @@ Von den Einheimischen nur liebevoll „Töwerland“ genannt, welches im Friesis
 							<div class="agencyBox col-sm-4">
 							<img src="assets/img/content/h4.png" alt="...">
 							<h4>Hauptsaison</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur elit
-							donec lacus nibh, vulputate eu dia non sodales </p>
+							<p>23.06.2016 – 10.09.2016</p>
 						</div><!-- end agencyBox -->
 						<div class="agencyBox col-sm-4">
 							<img src="assets/img/content/h4.png" alt="...">
 							<h4>Nebensaison</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur elit
-							donec lacus nibh, vulputate eu dia non sodales </p>
+							<p>20.12.2015 – 06.01.2016<br>
+							18.03.2016 – 22.06.2016<br>
+							11.09.2016 – 22.10.2016<br>
+							21.12.2016 – 07.01.2017<br></p>
 						</div><!-- end agencyBox -->
 						<div class="agencyBox col-sm-4">
 							<img src="assets/img/content/h4.png" alt="...">
 							<h4>Übrige Zeiten</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur elit
-							donec lacus nibh, vulputate eu dia non sodales </p>
+							<p>07.01.2016 – 17.03.2016 und 23.10.2016 – 20.12.2016 </p>
 						</div><!-- end agencyBox -->
 					</div><!-- end col-sm-5 -->
 					<div class="col-sm-7">
@@ -857,13 +858,13 @@ Von den Einheimischen nur liebevoll „Töwerland“ genannt, welches im Friesis
 							<div class="progress">
 							  <div class="progress-bar" role="progressbar" aria-valuenow="90.00" aria-valuemin="0" aria-valuemax="150">
 							  	<span class="left">Nebensaison</span>
-							    <span class="right font">90,00 €</span>
+							    <span class="right font">120,00 €</span>
 							  </div><!-- end progress-bar -->
 							</div><!-- end progress -->
 							<div class="progress">
 							  <div class="progress-bar" role="progressbar" aria-valuenow="85.00" aria-valuemin="0" aria-valuemax="150">
 							  	<span class="left">Übrige Zeiten</span>
-							    <span class="right font">85,00 €</span>
+							    <span class="right font">90,00 €</span>
 							  </div><!-- end progress-bar -->
 							</div><!-- end progress -->
 						</div><!--end progressBar -->
@@ -890,7 +891,7 @@ Von den Einheimischen nur liebevoll „Töwerland“ genannt, welches im Friesis
 				<div class="col-sm-12 ">
 					<div class="featuresTitle fadeInUp">
 						<h3><span>K</span>Kontakt<span class="hr"></span></h3>
-						<p style="color:#404040  !important; padding-top: 1em;" align="center">Juist Zauber – Michael Smidt - 10.00-18.00 Uhr</p>
+						<p style="color:#404040  !important; padding-top: 1em;" align="center">Juist Zauber – Michael Smidt - Bürozeiten: 10.00-18.00 Uhr</p>
 					</div><!-- end features title -->
 
 
